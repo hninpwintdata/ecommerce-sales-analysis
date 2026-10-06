@@ -1,0 +1,801 @@
+﻿Order_ID,Customer_ID,Order_Date,Product,Category,Customer_Type,Sales_Channel,Quantity,Unit_Price,Discount,Revenue,Customer_City
+ORD0001,C0292,2026/7/26,Coffee Maker,Home & Kitchen,New,Online,1,7600,0,7600,Kamakura
+ORD0002,C0274,2026/7/22,Jeans,Clothing,New,Marketplace,2,7600,0,15200,Utsunomiya
+ORD0003,C0288,2026/6/11,Wireless Mouse,Electronics,New,Mobile App,1,3500,0,3500,Mito
+ORD0004,C0118,2026/7/17,Wireless Headphones,Electronics,Returning,Mobile App,1,8500,0.05,8075,Tsukuba
+ORD0005,C0082,2026/8/2,Wireless Mouse,Electronics,Returning,Mobile App,3,3500,0.1,9450,Funabashi
+ORD0006,C0068,2026/1/25,Table Lamp,Home & Kitchen,Returning,Online,2,5400,0.1,9720,Kamakura
+ORD0007,C0310,2026/7/23,Table Lamp,Home & Kitchen,New,Mobile App,2,5400,0,10800,Tsukuba
+ORD0008,C0076,2026/2/25,Running Shoes,Sports,Returning,Online,2,9200,0,18400,Tsukuba
+ORD0009,C0234,2026/7/15,Bluetooth Speaker,Electronics,New,Marketplace,1,6200,0.1,5580,Utsunomiya
+ORD0010,C0175,2026/9/15,Beauty Mirror,Beauty,Returning,Online,2,4500,0,9000,Tsukuba
+ORD0011,C0356,2026/5/27,Body Lotion,Beauty,New,Online,1,2400,0.1,2160,Kamakura
+ORD0012,C0348,2026/4/12,Smart Watch,Electronics,New,Online,2,12800,0.1,23040,Chiba
+ORD0013,C0150,2026/9/30,Running Shoes,Sports,Returning,Mobile App,1,9200,0.15,7820,Saitama
+ORD0014,C0419,2026/8/19,Facial Cleanser,Beauty,New,Marketplace,1,2800,0,2800,Kawasaki
+ORD0015,C0486,2026/2/19,Sports Bag,Sports,New,Mobile App,1,5600,0,5600,Kashiwa
+ORD0016,C0405,2026/3/28,Beauty Mirror,Beauty,New,Marketplace,2,4500,0.1,8100,Tsukuba
+ORD0017,C0159,2026/1/22,Skincare Set,Beauty,Returning,Mobile App,2,7200,0.15,12240,Chiba
+ORD0018,C0048,2026/4/2,Skincare Set,Beauty,Returning,Marketplace,2,7200,0.05,13680,Tsukuba
+ORD0019,C0095,2026/2/18,Wireless Mouse,Electronics,Returning,Mobile App,1,3500,0.1,3150,Saitama
+ORD0020,C0328,2026/6/5,Sneakers,Clothing,New,Online,2,8900,0.1,16020,Kawagoe
+ORD0021,C0169,2026/8/16,Electric Kettle,Home & Kitchen,Returning,Mobile App,1,4800,0.05,4560,Kawagoe
+ORD0022,C0031,2026/2/23,Jacket,Clothing,Returning,Online,2,11500,0,23000,Kawagoe
+ORD0023,C0050,2026/9/12,Coffee Maker,Home & Kitchen,Returning,Online,1,7600,0.05,7220,Chiba
+ORD0024,C0479,2026/3/9,T-Shirt,Clothing,New,Marketplace,2,3200,0.05,6080,Maebashi
+ORD0025,C0282,2026/3/2,USB-C Hub,Electronics,New,Online,2,4200,0.05,7980,Utsunomiya
+ORD0026,C0430,2026/2/12,Yoga Mat,Sports,New,Online,2,3800,0.05,7220,Maebashi
+ORD0027,C0407,2026/3/25,Smart Watch,Electronics,New,Mobile App,1,12800,0.15,10880,Funabashi
+ORD0028,C0496,2026/9/7,Wireless Mouse,Electronics,New,Mobile App,1,3500,0,3500,Maebashi
+ORD0029,C0185,2026/7/8,Coffee Maker,Home & Kitchen,Returning,Mobile App,3,7600,0,22800,Saitama
+ORD0030,C0316,2026/7/2,Storage Box Set,Home & Kitchen,New,Marketplace,1,3200,0.15,2720,Hachioji
+ORD0031,C0348,2026/1/26,Hair Dryer,Beauty,New,Mobile App,1,6800,0.05,6460,Kawagoe
+ORD0032,C0262,2026/4/6,Fitness Band,Sports,New,Online,2,4100,0,8200,Kawasaki
+ORD0033,C0221,2026/6/15,Wireless Headphones,Electronics,New,Online,4,8500,0.1,30600,Mito
+ORD0034,C0268,2026/5/2,Jacket,Clothing,New,Marketplace,3,11500,0.1,31050,Tokyo
+ORD0035,C0263,2026/7/16,Jacket,Clothing,New,Mobile App,1,11500,0.05,10925,Kawagoe
+ORD0036,C0002,2026/4/27,Beauty Mirror,Beauty,Returning,Online,1,4500,0,4500,Tsukuba
+ORD0037,C0448,2026/6/23,Hoodie,Clothing,New,Mobile App,2,5900,0.1,10620,Kawasaki
+ORD0038,C0391,2026/5/15,Sports Bag,Sports,New,Online,2,5600,0.15,9520,Utsunomiya
+ORD0039,C0036,2026/9/22,Yoga Mat,Sports,Returning,Marketplace,3,3800,0.05,10830,Takasaki
+ORD0040,C0294,2026/1/11,Table Lamp,Home & Kitchen,New,Online,1,5400,0.1,4860,Maebashi
+ORD0041,C0023,2026/8/6,Smart Watch,Electronics,Returning,Mobile App,2,12800,0,25600,Kawagoe
+ORD0042,C0399,2026/4/21,Coffee Maker,Home & Kitchen,New,Online,2,7600,0.1,13680,Yokohama
+ORD0043,C0347,2026/5/5,T-Shirt,Clothing,New,Mobile App,1,3200,0.15,2720,Saitama
+ORD0044,C0199,2026/3/20,Bluetooth Speaker,Electronics,Returning,Mobile App,2,6200,0.05,11780,Utsunomiya
+ORD0045,C0045,2026/7/27,Bluetooth Speaker,Electronics,Returning,Online,2,6200,0.1,11160,Mito
+ORD0046,C0205,2026/1/2,Sports Bag,Sports,Returning,Mobile App,1,5600,0.1,5040,Kashiwa
+ORD0047,C0428,2026/2/22,Jacket,Clothing,New,Online,1,11500,0.1,10350,Chiba
+ORD0048,C0277,2026/9/17,Sports Bag,Sports,New,Mobile App,3,5600,0.1,15120,Kashiwa
+ORD0049,C0393,2026/3/25,USB-C Hub,Electronics,New,Online,2,4200,0.15,7140,Tokyo
+ORD0050,C0264,2026/3/11,Facial Cleanser,Beauty,New,Mobile App,1,2800,0.1,2520,Utsunomiya
+ORD0051,C0439,2026/9/3,Running Shoes,Sports,New,Mobile App,2,9200,0.1,16560,Kawagoe
+ORD0052,C0452,2026/4/15,Facial Cleanser,Beauty,New,Mobile App,1,2800,0.05,2660,Tokyo
+ORD0053,C0238,2026/9/14,Running Shoes,Sports,New,Online,1,9200,0,9200,Saitama
+ORD0054,C0117,2026/6/6,Hair Dryer,Beauty,Returning,Online,1,6800,0.2,5440,Takasaki
+ORD0055,C0026,2026/5/5,Bluetooth Speaker,Electronics,Returning,Mobile App,1,6200,0.15,5270,Tsukuba
+ORD0056,C0159,2026/6/18,Wireless Mouse,Electronics,Returning,Mobile App,3,3500,0.1,9450,Tsukuba
+ORD0057,C0284,2026/5/26,Sneakers,Clothing,New,Marketplace,2,8900,0,17800,Mito
+ORD0058,C0447,2026/4/8,Smart Watch,Electronics,New,Mobile App,1,12800,0.05,12160,Utsunomiya
+ORD0059,C0448,2026/9/6,Table Lamp,Home & Kitchen,New,Marketplace,1,5400,0.05,5130,Maebashi
+ORD0060,C0410,2026/3/10,Hoodie,Clothing,New,Marketplace,1,5900,0.15,5015,Hachioji
+ORD0061,C0305,2026/8/3,Skincare Set,Beauty,New,Mobile App,2,7200,0.05,13680,Kawagoe
+ORD0062,C0154,2026/3/31,Wireless Mouse,Electronics,Returning,Online,1,3500,0.15,2975,Saitama
+ORD0063,C0186,2026/1/28,Air Fryer,Home & Kitchen,Returning,Online,2,9800,0.15,16660,Kawagoe
+ORD0064,C0287,2026/9/3,Hoodie,Clothing,New,Marketplace,1,5900,0.05,5605,Tsukuba
+ORD0065,C0277,2026/1/3,Bluetooth Speaker,Electronics,New,Mobile App,1,6200,0,6200,Tokyo
+ORD0066,C0451,2026/9/28,Jacket,Clothing,New,Online,3,11500,0.15,29325,Takasaki
+ORD0067,C0180,2026/8/25,Sports Bag,Sports,Returning,Mobile App,1,5600,0.1,5040,Takasaki
+ORD0068,C0002,2026/6/21,Bluetooth Speaker,Electronics,Returning,Online,2,6200,0.1,11160,Yokohama
+ORD0069,C0404,2026/7/11,Sneakers,Clothing,New,Mobile App,2,8900,0.1,16020,Kawasaki
+ORD0070,C0240,2026/8/23,Beauty Mirror,Beauty,New,Marketplace,1,4500,0,4500,Chiba
+ORD0071,C0086,2026/6/5,Jacket,Clothing,Returning,Marketplace,1,11500,0.1,10350,Utsunomiya
+ORD0072,C0140,2026/7/21,Electric Kettle,Home & Kitchen,Returning,Online,1,4800,0.05,4560,Utsunomiya
+ORD0073,C0200,2026/5/5,T-Shirt,Clothing,Returning,Online,1,3200,0.15,2720,Chiba
+ORD0074,C0338,2026/8/8,Wireless Mouse,Electronics,New,Mobile App,1,3500,0.1,3150,Saitama
+ORD0075,C0017,2026/2/1,Jeans,Clothing,Returning,Mobile App,2,7600,0.2,12160,Kawasaki
+ORD0076,C0412,2026/9/12,USB-C Hub,Electronics,New,Mobile App,1,4200,0.15,3570,Maebashi
+ORD0077,C0014,2026/7/10,Body Lotion,Beauty,Returning,Marketplace,1,2400,0.15,2040,Funabashi
+ORD0078,C0114,2026/6/8,Running Shoes,Sports,Returning,Mobile App,2,9200,0.1,16560,Utsunomiya
+ORD0079,C0465,2026/1/29,Jeans,Clothing,New,Mobile App,3,7600,0.05,21660,Kawagoe
+ORD0080,C0350,2026/6/28,Sports Bag,Sports,New,Online,3,5600,0.05,15960,Hachioji
+ORD0081,C0154,2026/9/6,Sneakers,Clothing,Returning,Mobile App,1,8900,0.05,8455,Tokyo
+ORD0082,C0166,2026/3/21,Coffee Maker,Home & Kitchen,Returning,Online,1,7600,0.1,6840,Utsunomiya
+ORD0083,C0028,2026/7/6,Wireless Headphones,Electronics,Returning,Online,1,8500,0,8500,Takasaki
+ORD0084,C0156,2026/9/20,Storage Box Set,Home & Kitchen,Returning,Marketplace,1,3200,0.05,3040,Saitama
+ORD0085,C0422,2026/1/19,Running Shoes,Sports,New,Online,2,9200,0.1,16560,Kawasaki
+ORD0086,C0361,2026/6/25,Facial Cleanser,Beauty,New,Mobile App,1,2800,0,2800,Kamakura
+ORD0087,C0096,2026/1/20,Fitness Band,Sports,Returning,Online,1,4100,0.1,3690,Takasaki
+ORD0088,C0406,2026/5/9,Sneakers,Clothing,New,Online,1,8900,0.1,8010,Chiba
+ORD0089,C0255,2026/8/21,Storage Box Set,Home & Kitchen,New,Mobile App,1,3200,0.1,2880,Takasaki
+ORD0090,C0205,2026/9/5,USB-C Hub,Electronics,Returning,Marketplace,1,4200,0.1,3780,Saitama
+ORD0091,C0067,2026/7/10,Coffee Maker,Home & Kitchen,Returning,Marketplace,1,7600,0.05,7220,Utsunomiya
+ORD0092,C0407,2026/5/27,USB-C Hub,Electronics,New,Online,1,4200,0.1,3780,Maebashi
+ORD0093,C0477,2026/8/7,Sports Bag,Sports,New,Mobile App,1,5600,0.05,5320,Takasaki
+ORD0094,C0255,2026/8/31,Jacket,Clothing,New,Online,3,11500,0,34500,Kawagoe
+ORD0095,C0490,2026/9/3,Wireless Headphones,Electronics,New,Mobile App,1,8500,0.15,7225,Utsunomiya
+ORD0096,C0295,2026/4/9,Facial Cleanser,Beauty,New,Mobile App,1,2800,0.05,2660,Funabashi
+ORD0097,C0263,2026/4/15,Smart Watch,Electronics,New,Online,1,12800,0.05,12160,Yokohama
+ORD0098,C0159,2026/4/4,Hair Dryer,Beauty,Returning,Mobile App,2,6800,0,13600,Kawasaki
+ORD0099,C0329,2026/5/2,Smart Watch,Electronics,New,Mobile App,1,12800,0.1,11520,Tsukuba
+ORD0100,C0332,2026/1/11,USB-C Hub,Electronics,New,Online,1,4200,0.05,3990,Kamakura
+ORD0101,C0126,2026/9/12,Facial Cleanser,Beauty,Returning,Online,1,2800,0.15,2380,Kawasaki
+ORD0102,C0044,2026/6/17,Wireless Headphones,Electronics,Returning,Online,2,8500,0,17000,Hachioji
+ORD0103,C0040,2026/3/5,Skincare Set,Beauty,Returning,Mobile App,4,7200,0.1,25920,Kawasaki
+ORD0104,C0387,2026/7/4,Table Lamp,Home & Kitchen,New,Marketplace,2,5400,0.05,10260,Funabashi
+ORD0105,C0091,2026/1/8,Storage Box Set,Home & Kitchen,Returning,Online,1,3200,0.15,2720,Takasaki
+ORD0106,C0407,2026/3/13,Yoga Mat,Sports,New,Marketplace,1,3800,0.05,3610,Tsukuba
+ORD0107,C0262,2026/1/3,Wireless Mouse,Electronics,New,Mobile App,2,3500,0,7000,Yokohama
+ORD0108,C0427,2026/9/27,Air Fryer,Home & Kitchen,New,Marketplace,4,9800,0.05,37240,Funabashi
+ORD0109,C0295,2026/6/17,Wireless Mouse,Electronics,New,Online,1,3500,0.1,3150,Takasaki
+ORD0110,C0452,2026/4/15,Bluetooth Speaker,Electronics,New,Online,1,6200,0.1,5580,Yokohama
+ORD0111,C0157,2026/8/4,Wireless Headphones,Electronics,Returning,Mobile App,2,8500,0.15,14450,Kawasaki
+ORD0112,C0360,2026/8/16,Coffee Maker,Home & Kitchen,New,Online,1,7600,0.05,7220,Saitama
+ORD0113,C0093,2026/4/3,Wireless Headphones,Electronics,Returning,Online,1,8500,0,8500,Tsukuba
+ORD0114,C0347,2026/2/11,Electric Kettle,Home & Kitchen,New,Online,2,4800,0.1,8640,Maebashi
+ORD0115,C0326,2026/4/15,Yoga Mat,Sports,New,Online,4,3800,0.05,14440,Chiba
+ORD0116,C0289,2026/4/15,Skincare Set,Beauty,New,Online,1,7200,0.05,6840,Kashiwa
+ORD0117,C0405,2026/2/28,Hair Dryer,Beauty,New,Mobile App,2,6800,0.15,11560,Kashiwa
+ORD0118,C0497,2026/6/10,Fitness Band,Sports,New,Mobile App,2,4100,0.05,7790,Utsunomiya
+ORD0119,C0270,2026/7/4,Storage Box Set,Home & Kitchen,New,Mobile App,1,3200,0.15,2720,Yokohama
+ORD0120,C0248,2026/8/17,Bluetooth Speaker,Electronics,New,Marketplace,1,6200,0.05,5890,Mito
+ORD0121,C0180,2026/4/1,Wireless Headphones,Electronics,Returning,Online,2,8500,0,17000,Maebashi
+ORD0122,C0475,2026/5/13,Smart Watch,Electronics,New,Mobile App,1,12800,0.1,11520,Kamakura
+ORD0123,C0334,2026/1/30,Bluetooth Speaker,Electronics,New,Mobile App,3,6200,0.1,16740,Tokyo
+ORD0124,C0318,2026/9/5,Running Shoes,Sports,New,Online,2,9200,0.15,15640,Utsunomiya
+ORD0125,C0488,2026/3/18,Smart Watch,Electronics,New,Marketplace,2,12800,0.1,23040,Saitama
+ORD0126,C0161,2026/9/2,Storage Box Set,Home & Kitchen,Returning,Mobile App,1,3200,0.1,2880,Saitama
+ORD0127,C0111,2026/6/8,Sneakers,Clothing,Returning,Online,1,8900,0.1,8010,Tsukuba
+ORD0128,C0405,2026/4/5,T-Shirt,Clothing,New,Online,1,3200,0.1,2880,Kawagoe
+ORD0129,C0398,2026/9/27,Jeans,Clothing,New,Online,2,7600,0,15200,Kawagoe
+ORD0130,C0325,2026/9/27,Fitness Band,Sports,New,Marketplace,3,4100,0.05,11685,Chiba
+ORD0131,C0073,2026/8/16,Smart Watch,Electronics,Returning,Marketplace,3,12800,0,38400,Mito
+ORD0132,C0254,2026/6/23,Air Fryer,Home & Kitchen,New,Online,2,9800,0.05,18620,Funabashi
+ORD0133,C0463,2026/1/7,Electric Kettle,Home & Kitchen,New,Mobile App,3,4800,0,14400,Mito
+ORD0134,C0229,2026/8/15,Air Fryer,Home & Kitchen,New,Online,2,9800,0.05,18620,Kawagoe
+ORD0135,C0159,2026/4/3,Sports Bag,Sports,Returning,Mobile App,2,5600,0.15,9520,Kawagoe
+ORD0136,C0467,2026/5/20,Hoodie,Clothing,New,Mobile App,1,5900,0,5900,Maebashi
+ORD0137,C0062,2026/8/11,Fitness Band,Sports,Returning,Mobile App,1,4100,0,4100,Chiba
+ORD0138,C0447,2026/8/17,Facial Cleanser,Beauty,New,Online,1,2800,0.15,2380,Mito
+ORD0139,C0407,2026/4/28,Sports Bag,Sports,New,Marketplace,2,5600,0,11200,Mito
+ORD0140,C0455,2026/9/25,Facial Cleanser,Beauty,New,Mobile App,3,2800,0.05,7980,Kawagoe
+ORD0141,C0201,2026/1/22,Jeans,Clothing,Returning,Mobile App,1,7600,0.1,6840,Tokyo
+ORD0142,C0387,2026/4/8,Fitness Band,Sports,New,Mobile App,1,4100,0,4100,Funabashi
+ORD0143,C0218,2026/7/4,Table Lamp,Home & Kitchen,New,Mobile App,2,5400,0.05,10260,Saitama
+ORD0144,C0051,2026/4/25,Wireless Headphones,Electronics,Returning,Online,1,8500,0.15,7225,Kawagoe
+ORD0145,C0082,2026/9/16,Storage Box Set,Home & Kitchen,Returning,Marketplace,4,3200,0,12800,Kawagoe
+ORD0146,C0303,2026/5/9,Yoga Mat,Sports,New,Mobile App,2,3800,0.1,6840,Kawasaki
+ORD0147,C0179,2026/2/6,T-Shirt,Clothing,Returning,Online,1,3200,0,3200,Chiba
+ORD0148,C0368,2026/2/2,Skincare Set,Beauty,New,Mobile App,1,7200,0,7200,Yokohama
+ORD0149,C0126,2026/6/9,Smart Watch,Electronics,Returning,Online,1,12800,0,12800,Yokohama
+ORD0150,C0425,2026/1/3,Electric Kettle,Home & Kitchen,New,Online,2,4800,0.05,9120,Kashiwa
+ORD0151,C0294,2026/9/26,Storage Box Set,Home & Kitchen,New,Mobile App,3,3200,0,9600,Kamakura
+ORD0152,C0210,2026/9/13,Smart Watch,Electronics,Returning,Online,2,12800,0.05,24320,Hachioji
+ORD0153,C0231,2026/5/11,Coffee Maker,Home & Kitchen,New,Mobile App,2,7600,0.1,13680,Saitama
+ORD0154,C0431,2026/1/8,Smart Watch,Electronics,New,Mobile App,1,12800,0.1,11520,Funabashi
+ORD0155,C0367,2026/8/26,Body Lotion,Beauty,New,Mobile App,1,2400,0.05,2280,Kawagoe
+ORD0156,C0337,2026/8/23,Sports Bag,Sports,New,Marketplace,2,5600,0.2,8960,Funabashi
+ORD0157,C0191,2026/7/21,Smart Watch,Electronics,Returning,Online,2,12800,0.1,23040,Kawasaki
+ORD0158,C0461,2026/3/19,Smart Watch,Electronics,New,Mobile App,1,12800,0.15,10880,Kawagoe
+ORD0159,C0414,2026/5/26,Storage Box Set,Home & Kitchen,New,Marketplace,1,3200,0.15,2720,Yokohama
+ORD0160,C0065,2026/6/26,Wireless Mouse,Electronics,Returning,Online,1,3500,0.1,3150,Mito
+ORD0161,C0100,2026/1/1,Smart Watch,Electronics,Returning,Online,2,12800,0.15,21760,Kawagoe
+ORD0162,C0403,2026/4/12,Jeans,Clothing,New,Marketplace,3,7600,0.15,19380,Tsukuba
+ORD0163,C0195,2026/5/7,Sports Bag,Sports,Returning,Online,2,5600,0.05,10640,Takasaki
+ORD0164,C0374,2026/5/28,Sports Bag,Sports,New,Online,1,5600,0.2,4480,Kamakura
+ORD0165,C0167,2026/5/21,Jacket,Clothing,Returning,Mobile App,4,11500,0,46000,Hachioji
+ORD0166,C0351,2026/5/20,Storage Box Set,Home & Kitchen,New,Marketplace,3,3200,0.2,7680,Kawagoe
+ORD0167,C0131,2026/3/7,Hair Dryer,Beauty,Returning,Online,2,6800,0.15,11560,Kashiwa
+ORD0168,C0249,2026/4/26,Jacket,Clothing,New,Online,2,11500,0.05,21850,Utsunomiya
+ORD0169,C0343,2026/1/2,Wireless Headphones,Electronics,New,Marketplace,1,8500,0.05,8075,Kawasaki
+ORD0170,C0069,2026/3/19,Electric Kettle,Home & Kitchen,Returning,Mobile App,2,4800,0,9600,Funabashi
+ORD0171,C0410,2026/5/12,Hoodie,Clothing,New,Mobile App,1,5900,0.1,5310,Mito
+ORD0172,C0453,2026/9/4,Skincare Set,Beauty,New,Marketplace,1,7200,0.05,6840,Takasaki
+ORD0173,C0489,2026/1/14,Facial Cleanser,Beauty,New,Online,1,2800,0,2800,Kamakura
+ORD0174,C0147,2026/1/22,Sports Bag,Sports,Returning,Mobile App,3,5600,0,16800,Saitama
+ORD0175,C0305,2026/1/20,Sneakers,Clothing,New,Mobile App,4,8900,0.1,32040,Kawasaki
+ORD0176,C0306,2026/1/3,Running Shoes,Sports,New,Online,1,9200,0.05,8740,Kashiwa
+ORD0177,C0125,2026/1/3,Yoga Mat,Sports,Returning,Online,1,3800,0.1,3420,Mito
+ORD0178,C0170,2026/2/10,Dumbbell Set,Sports,Returning,Online,4,7400,0,29600,Utsunomiya
+ORD0179,C0273,2026/7/29,Coffee Maker,Home & Kitchen,New,Mobile App,1,7600,0.05,7220,Takasaki
+ORD0180,C0220,2026/2/9,Coffee Maker,Home & Kitchen,New,Online,3,7600,0.1,20520,Kashiwa
+ORD0181,C0272,2026/3/13,Hoodie,Clothing,New,Online,1,5900,0.1,5310,Tokyo
+ORD0182,C0260,2026/7/20,Bluetooth Speaker,Electronics,New,Online,4,6200,0.1,22320,Tsukuba
+ORD0183,C0180,2026/8/16,USB-C Hub,Electronics,Returning,Online,1,4200,0,4200,Kashiwa
+ORD0184,C0163,2026/2/15,Air Fryer,Home & Kitchen,Returning,Online,1,9800,0,9800,Kawasaki
+ORD0185,C0422,2026/6/21,Wireless Mouse,Electronics,New,Mobile App,2,3500,0.05,6650,Kashiwa
+ORD0186,C0288,2026/9/20,Running Shoes,Sports,New,Online,1,9200,0,9200,Kawagoe
+ORD0187,C0140,2026/6/13,Electric Kettle,Home & Kitchen,Returning,Online,2,4800,0.1,8640,Tsukuba
+ORD0188,C0321,2026/5/31,Skincare Set,Beauty,New,Mobile App,4,7200,0,28800,Tokyo
+ORD0189,C0301,2026/3/30,Beauty Mirror,Beauty,New,Mobile App,1,4500,0,4500,Kawasaki
+ORD0190,C0473,2026/6/23,Wireless Mouse,Electronics,New,Marketplace,1,3500,0.1,3150,Kawasaki
+ORD0191,C0086,2026/1/26,Wireless Mouse,Electronics,Returning,Online,3,3500,0,10500,Chiba
+ORD0192,C0315,2026/6/26,Fitness Band,Sports,New,Online,1,4100,0.1,3690,Chiba
+ORD0193,C0217,2026/2/19,Bluetooth Speaker,Electronics,New,Online,1,6200,0,6200,Yokohama
+ORD0194,C0242,2026/7/30,Facial Cleanser,Beauty,New,Mobile App,1,2800,0.05,2660,Chiba
+ORD0195,C0296,2026/6/3,Table Lamp,Home & Kitchen,New,Online,3,5400,0.1,14580,Mito
+ORD0196,C0355,2026/2/7,Sports Bag,Sports,New,Online,1,5600,0.1,5040,Tokyo
+ORD0197,C0447,2026/4/22,Jeans,Clothing,New,Mobile App,3,7600,0.2,18240,Saitama
+ORD0198,C0414,2026/6/15,Jacket,Clothing,New,Online,1,11500,0.1,10350,Kawasaki
+ORD0199,C0378,2026/3/5,Table Lamp,Home & Kitchen,New,Online,1,5400,0.15,4590,Yokohama
+ORD0200,C0294,2026/1/26,Wireless Mouse,Electronics,New,Mobile App,1,3500,0.1,3150,Kawagoe
+ORD0201,C0250,2026/7/30,USB-C Hub,Electronics,New,Mobile App,3,4200,0.1,11340,Tsukuba
+ORD0202,C0481,2026/2/19,Fitness Band,Sports,New,Online,1,4100,0.05,3895,Funabashi
+ORD0203,C0200,2026/9/29,USB-C Hub,Electronics,Returning,Marketplace,1,4200,0,4200,Hachioji
+ORD0204,C0333,2026/4/12,Wireless Headphones,Electronics,New,Online,1,8500,0.15,7225,Hachioji
+ORD0205,C0082,2026/3/24,Smart Watch,Electronics,Returning,Marketplace,1,12800,0.1,11520,Kamakura
+ORD0206,C0273,2026/9/28,Air Fryer,Home & Kitchen,New,Mobile App,1,9800,0.1,8820,Kamakura
+ORD0207,C0340,2026/6/10,Air Fryer,Home & Kitchen,New,Online,2,9800,0,19600,Chiba
+ORD0208,C0312,2026/6/4,Jeans,Clothing,New,Online,2,7600,0.05,14440,Maebashi
+ORD0209,C0363,2026/9/8,Beauty Mirror,Beauty,New,Online,2,4500,0.05,8550,Hachioji
+ORD0210,C0315,2026/3/29,Fitness Band,Sports,New,Marketplace,1,4100,0,4100,Funabashi
+ORD0211,C0070,2026/1/17,Yoga Mat,Sports,Returning,Mobile App,1,3800,0,3800,Maebashi
+ORD0212,C0415,2026/4/26,Sneakers,Clothing,New,Online,1,8900,0.05,8455,Takasaki
+ORD0213,C0488,2026/2/19,Sports Bag,Sports,New,Mobile App,3,5600,0.1,15120,Takasaki
+ORD0214,C0038,2026/3/29,Wireless Mouse,Electronics,Returning,Online,2,3500,0.05,6650,Kamakura
+ORD0215,C0021,2026/2/9,Smart Watch,Electronics,Returning,Mobile App,4,12800,0.1,46080,Saitama
+ORD0216,C0356,2026/5/29,Electric Kettle,Home & Kitchen,New,Online,1,4800,0,4800,Saitama
+ORD0217,C0037,2026/4/14,Coffee Maker,Home & Kitchen,Returning,Online,2,7600,0.15,12920,Maebashi
+ORD0218,C0500,2026/4/17,Facial Cleanser,Beauty,New,Mobile App,3,2800,0.05,7980,Funabashi
+ORD0219,C0336,2026/3/6,Hair Dryer,Beauty,New,Online,1,6800,0,6800,Saitama
+ORD0220,C0088,2026/2/22,Wireless Headphones,Electronics,Returning,Online,1,8500,0.05,8075,Chiba
+ORD0221,C0459,2026/1/15,Wireless Mouse,Electronics,New,Marketplace,1,3500,0.05,3325,Takasaki
+ORD0222,C0451,2026/6/7,Wireless Headphones,Electronics,New,Mobile App,1,8500,0.1,7650,Utsunomiya
+ORD0223,C0207,2026/7/10,Storage Box Set,Home & Kitchen,Returning,Mobile App,1,3200,0.1,2880,Maebashi
+ORD0224,C0448,2026/9/26,Dumbbell Set,Sports,New,Online,3,7400,0.1,19980,Mito
+ORD0225,C0489,2026/2/8,Beauty Mirror,Beauty,New,Marketplace,1,4500,0.05,4275,Yokohama
+ORD0226,C0094,2026/1/12,USB-C Hub,Electronics,Returning,Mobile App,3,4200,0.1,11340,Saitama
+ORD0227,C0317,2026/7/3,Hoodie,Clothing,New,Mobile App,1,5900,0.05,5605,Chiba
+ORD0228,C0085,2026/7/25,Skincare Set,Beauty,Returning,Mobile App,1,7200,0.1,6480,Takasaki
+ORD0229,C0135,2026/7/25,Running Shoes,Sports,Returning,Online,2,9200,0.05,17480,Tokyo
+ORD0230,C0133,2026/8/11,Coffee Maker,Home & Kitchen,Returning,Online,1,7600,0,7600,Tokyo
+ORD0231,C0496,2026/5/20,Table Lamp,Home & Kitchen,New,Marketplace,1,5400,0.05,5130,Kashiwa
+ORD0232,C0244,2026/8/3,Running Shoes,Sports,New,Mobile App,1,9200,0,9200,Kawagoe
+ORD0233,C0335,2026/9/7,Wireless Headphones,Electronics,New,Mobile App,2,8500,0,17000,Takasaki
+ORD0234,C0045,2026/1/13,Wireless Mouse,Electronics,Returning,Mobile App,1,3500,0.1,3150,Yokohama
+ORD0235,C0054,2026/5/12,Wireless Mouse,Electronics,Returning,Marketplace,1,3500,0,3500,Kawasaki
+ORD0236,C0450,2026/4/14,Beauty Mirror,Beauty,New,Online,3,4500,0.05,12825,Maebashi
+ORD0237,C0189,2026/8/15,USB-C Hub,Electronics,Returning,Marketplace,2,4200,0.1,7560,Saitama
+ORD0238,C0135,2026/1/11,USB-C Hub,Electronics,Returning,Online,1,4200,0.1,3780,Tokyo
+ORD0239,C0138,2026/4/20,Yoga Mat,Sports,Returning,Online,1,3800,0.05,3610,Kamakura
+ORD0240,C0191,2026/9/23,Storage Box Set,Home & Kitchen,Returning,Mobile App,1,3200,0.1,2880,Yokohama
+ORD0241,C0251,2026/9/3,Wireless Mouse,Electronics,New,Mobile App,1,3500,0.1,3150,Maebashi
+ORD0242,C0145,2026/4/14,Beauty Mirror,Beauty,Returning,Marketplace,1,4500,0.05,4275,Maebashi
+ORD0243,C0163,2026/5/9,Wireless Mouse,Electronics,Returning,Online,1,3500,0,3500,Kawagoe
+ORD0244,C0078,2026/1/18,Skincare Set,Beauty,Returning,Online,2,7200,0.05,13680,Saitama
+ORD0245,C0494,2026/2/19,Dumbbell Set,Sports,New,Mobile App,2,7400,0,14800,Kashiwa
+ORD0246,C0350,2026/3/29,Wireless Mouse,Electronics,New,Mobile App,3,3500,0.05,9975,Kawagoe
+ORD0247,C0143,2026/9/14,Wireless Mouse,Electronics,Returning,Marketplace,4,3500,0.05,13300,Kashiwa
+ORD0248,C0463,2026/1/12,Coffee Maker,Home & Kitchen,New,Marketplace,1,7600,0.1,6840,Hachioji
+ORD0249,C0200,2026/9/15,Air Fryer,Home & Kitchen,Returning,Online,2,9800,0.05,18620,Saitama
+ORD0250,C0142,2026/2/7,T-Shirt,Clothing,Returning,Online,2,3200,0,6400,Takasaki
+ORD0251,C0354,2026/8/3,Hair Dryer,Beauty,New,Online,1,6800,0.1,6120,Kashiwa
+ORD0252,C0166,2026/8/31,Bluetooth Speaker,Electronics,Returning,Online,1,6200,0.1,5580,Yokohama
+ORD0253,C0288,2026/4/4,Running Shoes,Sports,New,Mobile App,2,9200,0.1,16560,Yokohama
+ORD0254,C0249,2026/6/28,Air Fryer,Home & Kitchen,New,Online,2,9800,0.1,17640,Hachioji
+ORD0255,C0410,2026/9/14,T-Shirt,Clothing,New,Mobile App,1,3200,0.05,3040,Tsukuba
+ORD0256,C0342,2026/9/30,Facial Cleanser,Beauty,New,Online,3,2800,0.2,6720,Kawagoe
+ORD0257,C0338,2026/5/1,Bluetooth Speaker,Electronics,New,Online,2,6200,0.1,11160,Saitama
+ORD0258,C0378,2026/4/22,Body Lotion,Beauty,New,Online,1,2400,0.1,2160,Chiba
+ORD0259,C0311,2026/3/1,Bluetooth Speaker,Electronics,New,Mobile App,4,6200,0.1,22320,Tsukuba
+ORD0260,C0293,2026/5/26,Storage Box Set,Home & Kitchen,New,Online,2,3200,0.05,6080,Takasaki
+ORD0261,C0450,2026/2/27,Body Lotion,Beauty,New,Online,1,2400,0.1,2160,Takasaki
+ORD0262,C0329,2026/5/10,T-Shirt,Clothing,New,Marketplace,4,3200,0,12800,Mito
+ORD0263,C0335,2026/9/8,Jacket,Clothing,New,Mobile App,4,11500,0.05,43700,Maebashi
+ORD0264,C0214,2026/8/11,Sneakers,Clothing,New,Mobile App,1,8900,0.05,8455,Yokohama
+ORD0265,C0446,2026/9/28,Hair Dryer,Beauty,New,Mobile App,1,6800,0.15,5780,Chiba
+ORD0266,C0197,2026/4/17,Smart Watch,Electronics,Returning,Online,4,12800,0,51200,Hachioji
+ORD0267,C0332,2026/4/20,Running Shoes,Sports,New,Online,1,9200,0.1,8280,Maebashi
+ORD0268,C0422,2026/4/23,Skincare Set,Beauty,New,Mobile App,1,7200,0.15,6120,Kamakura
+ORD0269,C0014,2026/1/28,Dumbbell Set,Sports,Returning,Marketplace,1,7400,0,7400,Chiba
+ORD0270,C0432,2026/4/12,Hair Dryer,Beauty,New,Online,3,6800,0.1,18360,Kawagoe
+ORD0271,C0412,2026/3/8,Storage Box Set,Home & Kitchen,New,Online,1,3200,0.05,3040,Yokohama
+ORD0272,C0337,2026/2/5,Hair Dryer,Beauty,New,Mobile App,1,6800,0.2,5440,Mito
+ORD0273,C0364,2026/5/30,Yoga Mat,Sports,New,Mobile App,2,3800,0,7600,Kashiwa
+ORD0274,C0391,2026/5/18,Hair Dryer,Beauty,New,Mobile App,1,6800,0.05,6460,Hachioji
+ORD0275,C0352,2026/6/5,Smart Watch,Electronics,New,Online,3,12800,0.2,30720,Chiba
+ORD0276,C0444,2026/7/10,Bluetooth Speaker,Electronics,New,Mobile App,1,6200,0.15,5270,Takasaki
+ORD0277,C0249,2026/1/30,Bluetooth Speaker,Electronics,New,Mobile App,1,6200,0,6200,Chiba
+ORD0278,C0402,2026/9/27,Running Shoes,Sports,New,Online,2,9200,0.1,16560,Kawagoe
+ORD0279,C0090,2026/5/31,Jacket,Clothing,Returning,Mobile App,1,11500,0.1,10350,Kamakura
+ORD0280,C0436,2026/5/28,Body Lotion,Beauty,New,Mobile App,1,2400,0.1,2160,Takasaki
+ORD0281,C0332,2026/2/17,Skincare Set,Beauty,New,Online,1,7200,0.05,6840,Utsunomiya
+ORD0282,C0455,2026/2/4,Sneakers,Clothing,New,Online,2,8900,0.15,15130,Takasaki
+ORD0283,C0297,2026/5/30,Table Lamp,Home & Kitchen,New,Marketplace,1,5400,0.05,5130,Yokohama
+ORD0284,C0135,2026/1/23,Facial Cleanser,Beauty,Returning,Online,1,2800,0.05,2660,Hachioji
+ORD0285,C0064,2026/5/4,Table Lamp,Home & Kitchen,Returning,Mobile App,3,5400,0.05,15390,Saitama
+ORD0286,C0143,2026/1/15,Fitness Band,Sports,Returning,Online,1,4100,0.05,3895,Saitama
+ORD0287,C0344,2026/5/25,Storage Box Set,Home & Kitchen,New,Mobile App,3,3200,0,9600,Funabashi
+ORD0288,C0491,2026/3/21,Jeans,Clothing,New,Mobile App,2,7600,0,15200,Utsunomiya
+ORD0289,C0482,2026/2/10,Dumbbell Set,Sports,New,Mobile App,1,7400,0.1,6660,Saitama
+ORD0290,C0107,2026/3/19,Jeans,Clothing,Returning,Mobile App,1,7600,0,7600,Mito
+ORD0291,C0267,2026/7/29,Electric Kettle,Home & Kitchen,New,Online,3,4800,0.1,12960,Maebashi
+ORD0292,C0384,2026/9/18,Beauty Mirror,Beauty,New,Mobile App,2,4500,0,9000,Kawagoe
+ORD0293,C0205,2026/7/9,Wireless Mouse,Electronics,Returning,Online,1,3500,0.05,3325,Chiba
+ORD0294,C0420,2026/5/9,Running Shoes,Sports,New,Online,1,9200,0,9200,Tokyo
+ORD0295,C0089,2026/5/2,Storage Box Set,Home & Kitchen,Returning,Online,3,3200,0.2,7680,Saitama
+ORD0296,C0355,2026/1/14,Running Shoes,Sports,New,Marketplace,1,9200,0.15,7820,Kashiwa
+ORD0297,C0125,2026/8/9,Sneakers,Clothing,Returning,Online,1,8900,0.15,7565,Maebashi
+ORD0298,C0076,2026/3/23,Storage Box Set,Home & Kitchen,Returning,Marketplace,1,3200,0.1,2880,Chiba
+ORD0299,C0442,2026/2/26,T-Shirt,Clothing,New,Marketplace,1,3200,0.15,2720,Maebashi
+ORD0300,C0468,2026/2/7,Sports Bag,Sports,New,Online,2,5600,0.1,10080,Tokyo
+ORD0301,C0389,2026/9/10,USB-C Hub,Electronics,New,Mobile App,1,4200,0.05,3990,Hachioji
+ORD0302,C0128,2026/6/7,Table Lamp,Home & Kitchen,Returning,Online,4,5400,0.15,18360,Hachioji
+ORD0303,C0030,2026/2/8,Electric Kettle,Home & Kitchen,Returning,Marketplace,1,4800,0.05,4560,Chiba
+ORD0304,C0060,2026/3/16,USB-C Hub,Electronics,Returning,Mobile App,2,4200,0,8400,Kamakura
+ORD0305,C0110,2026/6/1,Hair Dryer,Beauty,Returning,Online,1,6800,0.1,6120,Takasaki
+ORD0306,C0192,2026/3/11,Hair Dryer,Beauty,Returning,Mobile App,1,6800,0,6800,Utsunomiya
+ORD0307,C0071,2026/8/24,Storage Box Set,Home & Kitchen,Returning,Online,1,3200,0.1,2880,Tsukuba
+ORD0308,C0334,2026/8/11,Smart Watch,Electronics,New,Online,1,12800,0.05,12160,Tokyo
+ORD0309,C0269,2026/2/18,Skincare Set,Beauty,New,Marketplace,1,7200,0.1,6480,Maebashi
+ORD0310,C0289,2026/7/1,T-Shirt,Clothing,New,Marketplace,2,3200,0.05,6080,Kashiwa
+ORD0311,C0045,2026/9/12,Hair Dryer,Beauty,Returning,Online,1,6800,0.1,6120,Kashiwa
+ORD0312,C0081,2026/2/25,Body Lotion,Beauty,Returning,Online,1,2400,0,2400,Maebashi
+ORD0313,C0394,2026/5/29,Jacket,Clothing,New,Online,2,11500,0,23000,Tsukuba
+ORD0314,C0214,2026/8/9,Yoga Mat,Sports,New,Online,1,3800,0,3800,Hachioji
+ORD0315,C0358,2026/6/18,Dumbbell Set,Sports,New,Online,1,7400,0.1,6660,Funabashi
+ORD0316,C0196,2026/6/30,Skincare Set,Beauty,Returning,Marketplace,1,7200,0,7200,Takasaki
+ORD0317,C0325,2026/5/23,USB-C Hub,Electronics,New,Online,2,4200,0.1,7560,Yokohama
+ORD0318,C0046,2026/5/18,Body Lotion,Beauty,Returning,Online,1,2400,0.15,2040,Kawasaki
+ORD0319,C0375,2026/5/6,T-Shirt,Clothing,New,Marketplace,4,3200,0,12800,Funabashi
+ORD0320,C0330,2026/8/26,Hair Dryer,Beauty,New,Online,2,6800,0,13600,Mito
+ORD0321,C0187,2026/7/31,Wireless Headphones,Electronics,Returning,Online,2,8500,0.15,14450,Mito
+ORD0322,C0312,2026/7/10,Hoodie,Clothing,New,Marketplace,1,5900,0.15,5015,Yokohama
+ORD0323,C0242,2026/6/12,USB-C Hub,Electronics,New,Online,1,4200,0.15,3570,Kawasaki
+ORD0324,C0059,2026/8/28,Skincare Set,Beauty,Returning,Mobile App,1,7200,0.1,6480,Mito
+ORD0325,C0439,2026/3/22,Running Shoes,Sports,New,Online,1,9200,0.1,8280,Kawasaki
+ORD0326,C0031,2026/1/14,Sports Bag,Sports,Returning,Online,1,5600,0.05,5320,Kawagoe
+ORD0327,C0162,2026/7/7,Electric Kettle,Home & Kitchen,Returning,Mobile App,2,4800,0.15,8160,Maebashi
+ORD0328,C0302,2026/4/24,Air Fryer,Home & Kitchen,New,Mobile App,1,9800,0,9800,Chiba
+ORD0329,C0007,2026/7/3,Air Fryer,Home & Kitchen,Returning,Online,1,9800,0.05,9310,Kamakura
+ORD0330,C0006,2026/7/17,Sneakers,Clothing,Returning,Marketplace,1,8900,0.15,7565,Tsukuba
+ORD0331,C0029,2026/2/27,Sports Bag,Sports,Returning,Online,3,5600,0.05,15960,Chiba
+ORD0332,C0149,2026/2/19,Sneakers,Clothing,Returning,Online,2,8900,0.15,15130,Tokyo
+ORD0333,C0403,2026/9/26,Table Lamp,Home & Kitchen,New,Online,2,5400,0.05,10260,Tokyo
+ORD0334,C0149,2026/8/2,Electric Kettle,Home & Kitchen,Returning,Marketplace,3,4800,0.1,12960,Utsunomiya
+ORD0335,C0238,2026/4/16,T-Shirt,Clothing,New,Online,2,3200,0.05,6080,Yokohama
+ORD0336,C0098,2026/7/5,Sneakers,Clothing,Returning,Online,1,8900,0.05,8455,Takasaki
+ORD0337,C0151,2026/8/2,Storage Box Set,Home & Kitchen,Returning,Marketplace,1,3200,0.1,2880,Tokyo
+ORD0338,C0173,2026/9/1,Coffee Maker,Home & Kitchen,Returning,Online,1,7600,0,7600,Kawasaki
+ORD0339,C0011,2026/5/16,Hair Dryer,Beauty,Returning,Online,1,6800,0,6800,Kawasaki
+ORD0340,C0155,2026/1/17,Wireless Mouse,Electronics,Returning,Mobile App,2,3500,0.1,6300,Tokyo
+ORD0341,C0418,2026/2/28,Sports Bag,Sports,New,Mobile App,1,5600,0.05,5320,Kashiwa
+ORD0342,C0097,2026/9/29,Air Fryer,Home & Kitchen,Returning,Marketplace,1,9800,0.1,8820,Takasaki
+ORD0343,C0412,2026/6/22,Wireless Mouse,Electronics,New,Online,1,3500,0.15,2975,Hachioji
+ORD0344,C0486,2026/6/18,Sneakers,Clothing,New,Mobile App,1,8900,0,8900,Kamakura
+ORD0345,C0283,2026/5/18,Smart Watch,Electronics,New,Online,3,12800,0,38400,Saitama
+ORD0346,C0370,2026/8/18,Running Shoes,Sports,New,Online,3,9200,0.1,24840,Kashiwa
+ORD0347,C0441,2026/2/4,Jeans,Clothing,New,Online,4,7600,0.15,25840,Tokyo
+ORD0348,C0411,2026/6/25,Jacket,Clothing,New,Marketplace,2,11500,0.1,20700,Funabashi
+ORD0349,C0341,2026/2/9,Wireless Headphones,Electronics,New,Online,1,8500,0.15,7225,Kashiwa
+ORD0350,C0078,2026/9/23,Fitness Band,Sports,Returning,Mobile App,1,4100,0.05,3895,Kawagoe
+ORD0351,C0147,2026/4/26,Smart Watch,Electronics,Returning,Online,2,12800,0.1,23040,Kawasaki
+ORD0352,C0100,2026/5/6,USB-C Hub,Electronics,Returning,Online,1,4200,0.1,3780,Tokyo
+ORD0353,C0311,2026/3/8,Dumbbell Set,Sports,New,Online,1,7400,0.15,6290,Tokyo
+ORD0354,C0179,2026/1/4,Electric Kettle,Home & Kitchen,Returning,Online,1,4800,0.05,4560,Yokohama
+ORD0355,C0270,2026/6/21,Wireless Headphones,Electronics,New,Marketplace,3,8500,0.05,24225,Yokohama
+ORD0356,C0003,2026/8/28,Table Lamp,Home & Kitchen,Returning,Online,4,5400,0.1,19440,Tokyo
+ORD0357,C0207,2026/7/8,Jacket,Clothing,Returning,Online,1,11500,0.15,9775,Utsunomiya
+ORD0358,C0215,2026/5/3,Skincare Set,Beauty,New,Online,1,7200,0.05,6840,Yokohama
+ORD0359,C0109,2026/6/22,Electric Kettle,Home & Kitchen,Returning,Online,2,4800,0,9600,Funabashi
+ORD0360,C0329,2026/8/23,Fitness Band,Sports,New,Online,2,4100,0.1,7380,Saitama
+ORD0361,C0353,2026/6/22,Beauty Mirror,Beauty,New,Online,4,4500,0.1,16200,Takasaki
+ORD0362,C0435,2026/1/23,Hair Dryer,Beauty,New,Online,1,6800,0,6800,Chiba
+ORD0363,C0418,2026/2/19,Skincare Set,Beauty,New,Online,4,7200,0.15,24480,Kashiwa
+ORD0364,C0169,2026/9/14,T-Shirt,Clothing,Returning,Online,1,3200,0,3200,Mito
+ORD0365,C0177,2026/1/29,Dumbbell Set,Sports,Returning,Online,1,7400,0,7400,Kamakura
+ORD0366,C0461,2026/1/3,Jeans,Clothing,New,Mobile App,1,7600,0.1,6840,Hachioji
+ORD0367,C0314,2026/7/11,Storage Box Set,Home & Kitchen,New,Mobile App,1,3200,0.2,2560,Kamakura
+ORD0368,C0189,2026/1/29,Smart Watch,Electronics,Returning,Mobile App,2,12800,0,25600,Saitama
+ORD0369,C0433,2026/9/25,Facial Cleanser,Beauty,New,Online,1,2800,0,2800,Mito
+ORD0370,C0282,2026/3/21,USB-C Hub,Electronics,New,Online,2,4200,0.1,7560,Kashiwa
+ORD0371,C0129,2026/5/26,Wireless Mouse,Electronics,Returning,Online,3,3500,0,10500,Tokyo
+ORD0372,C0122,2026/8/16,Bluetooth Speaker,Electronics,Returning,Marketplace,2,6200,0,12400,Tsukuba
+ORD0373,C0224,2026/5/9,Wireless Mouse,Electronics,New,Online,1,3500,0.1,3150,Yokohama
+ORD0374,C0030,2026/2/3,T-Shirt,Clothing,Returning,Marketplace,1,3200,0.05,3040,Chiba
+ORD0375,C0348,2026/4/24,Beauty Mirror,Beauty,New,Online,2,4500,0.1,8100,Takasaki
+ORD0376,C0369,2026/1/14,T-Shirt,Clothing,New,Mobile App,4,3200,0.05,12160,Hachioji
+ORD0377,C0438,2026/6/15,Wireless Mouse,Electronics,New,Online,2,3500,0.1,6300,Kawasaki
+ORD0378,C0002,2026/4/21,Wireless Headphones,Electronics,Returning,Marketplace,1,8500,0.1,7650,Kawasaki
+ORD0379,C0479,2026/1/6,Beauty Mirror,Beauty,New,Marketplace,2,4500,0,9000,Hachioji
+ORD0380,C0297,2026/7/11,Coffee Maker,Home & Kitchen,New,Mobile App,1,7600,0.1,6840,Chiba
+ORD0381,C0331,2026/3/2,Skincare Set,Beauty,New,Online,1,7200,0.05,6840,Saitama
+ORD0382,C0374,2026/8/30,T-Shirt,Clothing,New,Online,3,3200,0.1,8640,Kashiwa
+ORD0383,C0305,2026/2/10,Coffee Maker,Home & Kitchen,New,Mobile App,1,7600,0,7600,Maebashi
+ORD0384,C0317,2026/1/24,USB-C Hub,Electronics,New,Online,1,4200,0.15,3570,Kawagoe
+ORD0385,C0176,2026/3/27,Jeans,Clothing,Returning,Mobile App,1,7600,0,7600,Maebashi
+ORD0386,C0448,2026/7/20,Sneakers,Clothing,New,Mobile App,1,8900,0,8900,Funabashi
+ORD0387,C0413,2026/4/27,Hair Dryer,Beauty,New,Online,1,6800,0.05,6460,Yokohama
+ORD0388,C0286,2026/4/25,Storage Box Set,Home & Kitchen,New,Online,1,3200,0.15,2720,Hachioji
+ORD0389,C0482,2026/7/14,Facial Cleanser,Beauty,New,Marketplace,1,2800,0.1,2520,Kashiwa
+ORD0390,C0134,2026/2/28,Storage Box Set,Home & Kitchen,Returning,Marketplace,1,3200,0.1,2880,Funabashi
+ORD0391,C0270,2026/8/17,Bluetooth Speaker,Electronics,New,Online,1,6200,0.05,5890,Takasaki
+ORD0392,C0165,2026/3/16,Sports Bag,Sports,Returning,Mobile App,1,5600,0.1,5040,Maebashi
+ORD0393,C0485,2026/1/8,Sports Bag,Sports,New,Marketplace,1,5600,0.05,5320,Tsukuba
+ORD0394,C0309,2026/7/3,USB-C Hub,Electronics,New,Online,3,4200,0.05,11970,Funabashi
+ORD0395,C0438,2026/8/18,Smart Watch,Electronics,New,Marketplace,1,12800,0.05,12160,Maebashi
+ORD0396,C0123,2026/4/15,T-Shirt,Clothing,Returning,Online,1,3200,0.1,2880,Mito
+ORD0397,C0432,2026/1/27,Hoodie,Clothing,New,Mobile App,2,5900,0.2,9440,Saitama
+ORD0398,C0473,2026/9/1,Jacket,Clothing,New,Online,1,11500,0.2,9200,Kashiwa
+ORD0399,C0098,2026/6/19,Skincare Set,Beauty,Returning,Online,3,7200,0.05,20520,Funabashi
+ORD0400,C0470,2026/7/4,Sports Bag,Sports,New,Online,2,5600,0.05,10640,Funabashi
+ORD0401,C0408,2026/7/15,Coffee Maker,Home & Kitchen,New,Online,3,7600,0,22800,Yokohama
+ORD0402,C0085,2026/2/28,Sports Bag,Sports,Returning,Mobile App,2,5600,0.05,10640,Funabashi
+ORD0403,C0364,2026/8/25,Smart Watch,Electronics,New,Online,2,12800,0.2,20480,Takasaki
+ORD0404,C0118,2026/6/13,Beauty Mirror,Beauty,Returning,Marketplace,1,4500,0.1,4050,Hachioji
+ORD0405,C0403,2026/8/27,USB-C Hub,Electronics,New,Online,1,4200,0.05,3990,Kawagoe
+ORD0406,C0308,2026/1/25,Running Shoes,Sports,New,Online,1,9200,0.1,8280,Saitama
+ORD0407,C0468,2026/5/16,Wireless Headphones,Electronics,New,Online,2,8500,0.05,16150,Kawasaki
+ORD0408,C0451,2026/2/16,Coffee Maker,Home & Kitchen,New,Online,1,7600,0.05,7220,Saitama
+ORD0409,C0175,2026/3/3,Hoodie,Clothing,Returning,Mobile App,4,5900,0.05,22420,Saitama
+ORD0410,C0150,2026/1/8,Sneakers,Clothing,Returning,Online,3,8900,0.1,24030,Hachioji
+ORD0411,C0165,2026/3/14,USB-C Hub,Electronics,Returning,Online,1,4200,0,4200,Yokohama
+ORD0412,C0280,2026/8/12,Sports Bag,Sports,New,Mobile App,1,5600,0.05,5320,Kashiwa
+ORD0413,C0271,2026/3/4,Yoga Mat,Sports,New,Online,1,3800,0.2,3040,Chiba
+ORD0414,C0080,2026/8/27,Storage Box Set,Home & Kitchen,Returning,Marketplace,1,3200,0,3200,Mito
+ORD0415,C0154,2026/6/1,Jeans,Clothing,Returning,Marketplace,3,7600,0.05,21660,Tsukuba
+ORD0416,C0310,2026/1/4,Jeans,Clothing,New,Mobile App,2,7600,0.1,13680,Kawagoe
+ORD0417,C0450,2026/8/5,Fitness Band,Sports,New,Online,3,4100,0.1,11070,Kashiwa
+ORD0418,C0355,2026/9/3,Running Shoes,Sports,New,Marketplace,3,9200,0.2,22080,Maebashi
+ORD0419,C0131,2026/1/18,Storage Box Set,Home & Kitchen,Returning,Mobile App,2,3200,0,6400,Yokohama
+ORD0420,C0458,2026/1/16,Jeans,Clothing,New,Online,1,7600,0,7600,Mito
+ORD0421,C0437,2026/4/4,Sports Bag,Sports,New,Online,3,5600,0.05,15960,Tokyo
+ORD0422,C0093,2026/2/3,Wireless Headphones,Electronics,Returning,Mobile App,3,8500,0,25500,Tsukuba
+ORD0423,C0289,2026/6/5,Storage Box Set,Home & Kitchen,New,Mobile App,1,3200,0.05,3040,Saitama
+ORD0424,C0135,2026/6/11,Wireless Headphones,Electronics,Returning,Mobile App,2,8500,0.1,15300,Mito
+ORD0425,C0297,2026/6/15,T-Shirt,Clothing,New,Mobile App,2,3200,0.2,5120,Yokohama
+ORD0426,C0282,2026/1/18,Coffee Maker,Home & Kitchen,New,Online,1,7600,0.2,6080,Mito
+ORD0427,C0064,2026/1/14,Storage Box Set,Home & Kitchen,Returning,Online,2,3200,0.1,5760,Tsukuba
+ORD0428,C0357,2026/7/11,T-Shirt,Clothing,New,Online,1,3200,0.1,2880,Hachioji
+ORD0429,C0123,2026/8/14,Hair Dryer,Beauty,Returning,Marketplace,1,6800,0.15,5780,Utsunomiya
+ORD0430,C0258,2026/7/11,Jeans,Clothing,New,Mobile App,1,7600,0.1,6840,Hachioji
+ORD0431,C0202,2026/3/18,Jeans,Clothing,Returning,Mobile App,1,7600,0.1,6840,Kamakura
+ORD0432,C0148,2026/6/9,Smart Watch,Electronics,Returning,Online,1,12800,0.2,10240,Chiba
+ORD0433,C0443,2026/1/16,Facial Cleanser,Beauty,New,Online,2,2800,0.1,5040,Kawagoe
+ORD0434,C0441,2026/3/22,Storage Box Set,Home & Kitchen,New,Mobile App,2,3200,0.1,5760,Chiba
+ORD0435,C0469,2026/9/30,Sports Bag,Sports,New,Mobile App,2,5600,0,11200,Kashiwa
+ORD0436,C0321,2026/2/22,Fitness Band,Sports,New,Mobile App,2,4100,0.1,7380,Funabashi
+ORD0437,C0360,2026/5/10,Dumbbell Set,Sports,New,Online,1,7400,0.05,7030,Kashiwa
+ORD0438,C0378,2026/2/10,Smart Watch,Electronics,New,Online,1,12800,0.05,12160,Kashiwa
+ORD0439,C0287,2026/5/21,Dumbbell Set,Sports,New,Mobile App,2,7400,0.1,13320,Funabashi
+ORD0440,C0112,2026/6/29,Electric Kettle,Home & Kitchen,Returning,Marketplace,2,4800,0.1,8640,Tsukuba
+ORD0441,C0119,2026/1/2,Skincare Set,Beauty,Returning,Mobile App,2,7200,0.1,12960,Tsukuba
+ORD0442,C0412,2026/5/27,USB-C Hub,Electronics,New,Mobile App,2,4200,0.05,7980,Mito
+ORD0443,C0028,2026/3/12,USB-C Hub,Electronics,Returning,Marketplace,1,4200,0.15,3570,Yokohama
+ORD0444,C0237,2026/8/10,Sports Bag,Sports,New,Marketplace,1,5600,0.1,5040,Takasaki
+ORD0445,C0215,2026/8/26,Smart Watch,Electronics,New,Online,2,12800,0.1,23040,Chiba
+ORD0446,C0425,2026/4/3,Wireless Headphones,Electronics,New,Online,2,8500,0.1,15300,Maebashi
+ORD0447,C0280,2026/1/4,T-Shirt,Clothing,New,Online,1,3200,0,3200,Utsunomiya
+ORD0448,C0010,2026/8/24,Skincare Set,Beauty,Returning,Marketplace,4,7200,0.1,25920,Kamakura
+ORD0449,C0282,2026/2/16,Smart Watch,Electronics,New,Marketplace,2,12800,0,25600,Mito
+ORD0450,C0321,2026/3/16,Electric Kettle,Home & Kitchen,New,Online,2,4800,0.1,8640,Kawagoe
+ORD0451,C0473,2026/1/28,Beauty Mirror,Beauty,New,Marketplace,1,4500,0.2,3600,Kawasaki
+ORD0452,C0358,2026/5/18,Table Lamp,Home & Kitchen,New,Online,2,5400,0.1,9720,Saitama
+ORD0453,C0314,2026/9/10,Facial Cleanser,Beauty,New,Online,3,2800,0.05,7980,Hachioji
+ORD0454,C0038,2026/6/13,T-Shirt,Clothing,Returning,Online,3,3200,0.15,8160,Utsunomiya
+ORD0455,C0212,2026/5/6,Jeans,Clothing,New,Online,2,7600,0.15,12920,Saitama
+ORD0456,C0402,2026/5/30,Beauty Mirror,Beauty,New,Online,1,4500,0.2,3600,Funabashi
+ORD0457,C0269,2026/3/12,Wireless Mouse,Electronics,New,Marketplace,2,3500,0.05,6650,Takasaki
+ORD0458,C0323,2026/5/4,Coffee Maker,Home & Kitchen,New,Online,1,7600,0.15,6460,Tokyo
+ORD0459,C0159,2026/9/2,Wireless Headphones,Electronics,Returning,Online,1,8500,0.1,7650,Kashiwa
+ORD0460,C0333,2026/7/26,Wireless Headphones,Electronics,New,Online,1,8500,0.05,8075,Maebashi
+ORD0461,C0291,2026/7/4,Sneakers,Clothing,New,Mobile App,1,8900,0.15,7565,Maebashi
+ORD0462,C0012,2026/3/22,Skincare Set,Beauty,Returning,Marketplace,4,7200,0.2,23040,Chiba
+ORD0463,C0124,2026/5/14,Wireless Mouse,Electronics,Returning,Mobile App,1,3500,0.1,3150,Kawagoe
+ORD0464,C0134,2026/9/12,Wireless Mouse,Electronics,Returning,Online,1,3500,0.2,2800,Mito
+ORD0465,C0045,2026/1/28,Hair Dryer,Beauty,Returning,Online,1,6800,0,6800,Funabashi
+ORD0466,C0417,2026/4/21,Body Lotion,Beauty,New,Mobile App,1,2400,0.1,2160,Kawagoe
+ORD0467,C0482,2026/1/11,Jeans,Clothing,New,Mobile App,1,7600,0.05,7220,Utsunomiya
+ORD0468,C0036,2026/7/10,Facial Cleanser,Beauty,Returning,Online,1,2800,0.15,2380,Kawasaki
+ORD0469,C0405,2026/1/21,Storage Box Set,Home & Kitchen,New,Online,1,3200,0,3200,Kashiwa
+ORD0470,C0229,2026/4/11,Air Fryer,Home & Kitchen,New,Marketplace,1,9800,0.05,9310,Hachioji
+ORD0471,C0096,2026/5/2,Skincare Set,Beauty,Returning,Mobile App,1,7200,0,7200,Kashiwa
+ORD0472,C0082,2026/5/28,USB-C Hub,Electronics,Returning,Mobile App,1,4200,0,4200,Kawagoe
+ORD0473,C0354,2026/1/2,Jacket,Clothing,New,Online,2,11500,0.15,19550,Kawagoe
+ORD0474,C0262,2026/1/9,USB-C Hub,Electronics,New,Online,1,4200,0.05,3990,Utsunomiya
+ORD0475,C0240,2026/4/18,Sneakers,Clothing,New,Mobile App,2,8900,0.1,16020,Kawasaki
+ORD0476,C0099,2026/6/2,Hoodie,Clothing,Returning,Online,2,5900,0.1,10620,Mito
+ORD0477,C0185,2026/7/23,Dumbbell Set,Sports,Returning,Mobile App,3,7400,0.1,19980,Takasaki
+ORD0478,C0366,2026/6/11,Hoodie,Clothing,New,Online,2,5900,0,11800,Hachioji
+ORD0479,C0265,2026/8/1,Facial Cleanser,Beauty,New,Marketplace,1,2800,0.1,2520,Kawasaki
+ORD0480,C0315,2026/2/22,Yoga Mat,Sports,New,Online,1,3800,0.15,3230,Maebashi
+ORD0481,C0224,2026/5/30,Storage Box Set,Home & Kitchen,New,Mobile App,1,3200,0,3200,Tokyo
+ORD0482,C0302,2026/6/1,USB-C Hub,Electronics,New,Mobile App,1,4200,0.2,3360,Chiba
+ORD0483,C0413,2026/4/6,Hoodie,Clothing,New,Mobile App,1,5900,0.1,5310,Kamakura
+ORD0484,C0300,2026/6/7,Jeans,Clothing,New,Marketplace,2,7600,0.2,12160,Mito
+ORD0485,C0378,2026/8/9,Electric Kettle,Home & Kitchen,New,Online,2,4800,0.05,9120,Yokohama
+ORD0486,C0298,2026/9/19,Wireless Headphones,Electronics,New,Online,2,8500,0.1,15300,Kawagoe
+ORD0487,C0336,2026/7/6,T-Shirt,Clothing,New,Marketplace,1,3200,0.15,2720,Utsunomiya
+ORD0488,C0488,2026/4/20,Fitness Band,Sports,New,Online,1,4100,0.15,3485,Tsukuba
+ORD0489,C0084,2026/4/23,T-Shirt,Clothing,Returning,Online,3,3200,0.05,9120,Kashiwa
+ORD0490,C0158,2026/1/24,Jacket,Clothing,Returning,Mobile App,2,11500,0,23000,Hachioji
+ORD0491,C0292,2026/1/27,Facial Cleanser,Beauty,New,Mobile App,3,2800,0.15,7140,Tokyo
+ORD0492,C0180,2026/1/9,Hair Dryer,Beauty,Returning,Mobile App,4,6800,0.1,24480,Tsukuba
+ORD0493,C0080,2026/7/29,Wireless Mouse,Electronics,Returning,Mobile App,2,3500,0.1,6300,Mito
+ORD0494,C0123,2026/8/11,Smart Watch,Electronics,Returning,Online,1,12800,0,12800,Tokyo
+ORD0495,C0355,2026/6/22,USB-C Hub,Electronics,New,Online,3,4200,0,12600,Kawagoe
+ORD0496,C0321,2026/7/11,Jacket,Clothing,New,Marketplace,1,11500,0.05,10925,Funabashi
+ORD0497,C0289,2026/3/25,Smart Watch,Electronics,New,Mobile App,1,12800,0.2,10240,Tokyo
+ORD0498,C0071,2026/5/19,Sports Bag,Sports,Returning,Online,4,5600,0,22400,Kawasaki
+ORD0499,C0130,2026/4/7,Storage Box Set,Home & Kitchen,Returning,Mobile App,1,3200,0.05,3040,Kamakura
+ORD0500,C0256,2026/8/12,Bluetooth Speaker,Electronics,New,Online,2,6200,0,12400,Kashiwa
+ORD0501,C0397,2026/6/2,T-Shirt,Clothing,New,Online,2,3200,0.05,6080,Takasaki
+ORD0502,C0295,2026/3/6,Storage Box Set,Home & Kitchen,New,Online,4,3200,0.05,12160,Chiba
+ORD0503,C0388,2026/6/11,Storage Box Set,Home & Kitchen,New,Online,1,3200,0.05,3040,Saitama
+ORD0504,C0104,2026/1/31,Running Shoes,Sports,Returning,Online,1,9200,0.1,8280,Takasaki
+ORD0505,C0254,2026/8/5,Hair Dryer,Beauty,New,Online,1,6800,0.1,6120,Saitama
+ORD0506,C0210,2026/9/26,Body Lotion,Beauty,Returning,Online,1,2400,0.05,2280,Kashiwa
+ORD0507,C0163,2026/6/9,Hoodie,Clothing,Returning,Mobile App,3,5900,0,17700,Kashiwa
+ORD0508,C0457,2026/7/3,Table Lamp,Home & Kitchen,New,Mobile App,1,5400,0.15,4590,Kamakura
+ORD0509,C0474,2026/9/28,Storage Box Set,Home & Kitchen,New,Mobile App,1,3200,0,3200,Tokyo
+ORD0510,C0108,2026/6/19,Wireless Mouse,Electronics,Returning,Mobile App,1,3500,0.15,2975,Hachioji
+ORD0511,C0203,2026/4/29,Air Fryer,Home & Kitchen,Returning,Mobile App,2,9800,0.1,17640,Kamakura
+ORD0512,C0466,2026/9/18,Wireless Mouse,Electronics,New,Marketplace,1,3500,0.1,3150,Tsukuba
+ORD0513,C0469,2026/8/1,Yoga Mat,Sports,New,Online,1,3800,0.15,3230,Yokohama
+ORD0514,C0483,2026/6/23,Fitness Band,Sports,New,Online,1,4100,0.15,3485,Hachioji
+ORD0515,C0020,2026/3/30,USB-C Hub,Electronics,Returning,Mobile App,1,4200,0.1,3780,Utsunomiya
+ORD0516,C0027,2026/1/14,Fitness Band,Sports,Returning,Online,1,4100,0.2,3280,Chiba
+ORD0517,C0143,2026/2/24,T-Shirt,Clothing,Returning,Mobile App,1,3200,0,3200,Funabashi
+ORD0518,C0213,2026/8/29,Wireless Headphones,Electronics,New,Online,2,8500,0,17000,Kashiwa
+ORD0519,C0133,2026/7/19,T-Shirt,Clothing,Returning,Online,1,3200,0.05,3040,Mito
+ORD0520,C0323,2026/9/3,USB-C Hub,Electronics,New,Online,1,4200,0,4200,Saitama
+ORD0521,C0459,2026/8/2,Jeans,Clothing,New,Online,1,7600,0.15,6460,Maebashi
+ORD0522,C0031,2026/6/16,Beauty Mirror,Beauty,Returning,Marketplace,4,4500,0.1,16200,Utsunomiya
+ORD0523,C0190,2026/9/17,Jeans,Clothing,Returning,Online,1,7600,0.1,6840,Takasaki
+ORD0524,C0145,2026/7/28,Hair Dryer,Beauty,Returning,Mobile App,2,6800,0.05,12920,Funabashi
+ORD0525,C0246,2026/9/17,Dumbbell Set,Sports,New,Mobile App,2,7400,0,14800,Tsukuba
+ORD0526,C0330,2026/4/26,Wireless Headphones,Electronics,New,Marketplace,1,8500,0.1,7650,Tokyo
+ORD0527,C0122,2026/4/5,Body Lotion,Beauty,Returning,Online,2,2400,0.1,4320,Utsunomiya
+ORD0528,C0036,2026/7/13,T-Shirt,Clothing,Returning,Online,1,3200,0.1,2880,Saitama
+ORD0529,C0331,2026/3/17,Table Lamp,Home & Kitchen,New,Online,1,5400,0.05,5130,Kamakura
+ORD0530,C0437,2026/8/29,Wireless Mouse,Electronics,New,Online,1,3500,0.05,3325,Tokyo
+ORD0531,C0394,2026/8/5,Dumbbell Set,Sports,New,Marketplace,3,7400,0.1,19980,Yokohama
+ORD0532,C0194,2026/3/13,Hoodie,Clothing,Returning,Mobile App,1,5900,0.2,4720,Tsukuba
+ORD0533,C0124,2026/1/30,Beauty Mirror,Beauty,Returning,Online,2,4500,0,9000,Hachioji
+ORD0534,C0248,2026/9/30,Dumbbell Set,Sports,New,Online,1,7400,0.05,7030,Tsukuba
+ORD0535,C0249,2026/6/7,Table Lamp,Home & Kitchen,New,Mobile App,1,5400,0,5400,Yokohama
+ORD0536,C0414,2026/4/13,Coffee Maker,Home & Kitchen,New,Online,4,7600,0.1,27360,Mito
+ORD0537,C0139,2026/2/18,Hoodie,Clothing,Returning,Marketplace,1,5900,0.2,4720,Kamakura
+ORD0538,C0165,2026/1/8,Smart Watch,Electronics,Returning,Mobile App,2,12800,0.05,24320,Maebashi
+ORD0539,C0162,2026/8/16,Facial Cleanser,Beauty,Returning,Online,3,2800,0.2,6720,Saitama
+ORD0540,C0329,2026/1/7,Beauty Mirror,Beauty,New,Online,1,4500,0,4500,Tokyo
+ORD0541,C0371,2026/9/20,Yoga Mat,Sports,New,Online,1,3800,0.1,3420,Maebashi
+ORD0542,C0330,2026/6/24,T-Shirt,Clothing,New,Online,2,3200,0.05,6080,Funabashi
+ORD0543,C0417,2026/9/24,Jeans,Clothing,New,Online,1,7600,0,7600,Chiba
+ORD0544,C0219,2026/7/14,Air Fryer,Home & Kitchen,New,Mobile App,2,9800,0.05,18620,Mito
+ORD0545,C0238,2026/2/7,Storage Box Set,Home & Kitchen,New,Mobile App,3,3200,0.2,7680,Yokohama
+ORD0546,C0190,2026/2/13,Electric Kettle,Home & Kitchen,Returning,Online,1,4800,0,4800,Kamakura
+ORD0547,C0293,2026/5/19,Skincare Set,Beauty,New,Online,1,7200,0,7200,Kawagoe
+ORD0548,C0343,2026/2/26,Body Lotion,Beauty,New,Online,1,2400,0.05,2280,Kamakura
+ORD0549,C0082,2026/4/20,Electric Kettle,Home & Kitchen,Returning,Mobile App,2,4800,0.1,8640,Takasaki
+ORD0550,C0236,2026/2/1,Bluetooth Speaker,Electronics,New,Online,2,6200,0.05,11780,Hachioji
+ORD0551,C0034,2026/1/20,USB-C Hub,Electronics,Returning,Online,2,4200,0.05,7980,Tsukuba
+ORD0552,C0435,2026/1/1,Fitness Band,Sports,New,Mobile App,1,4100,0.05,3895,Yokohama
+ORD0553,C0146,2026/5/8,Jacket,Clothing,Returning,Marketplace,1,11500,0.05,10925,Takasaki
+ORD0554,C0375,2026/8/26,Running Shoes,Sports,New,Online,3,9200,0,27600,Utsunomiya
+ORD0555,C0495,2026/3/6,Dumbbell Set,Sports,New,Online,1,7400,0.05,7030,Tokyo
+ORD0556,C0414,2026/2/18,Beauty Mirror,Beauty,New,Mobile App,1,4500,0.05,4275,Mito
+ORD0557,C0109,2026/9/11,Table Lamp,Home & Kitchen,Returning,Mobile App,1,5400,0.1,4860,Kashiwa
+ORD0558,C0367,2026/2/7,Smart Watch,Electronics,New,Mobile App,2,12800,0,25600,Tsukuba
+ORD0559,C0473,2026/9/4,Sports Bag,Sports,New,Marketplace,1,5600,0.2,4480,Funabashi
+ORD0560,C0223,2026/1/29,Wireless Mouse,Electronics,New,Online,4,3500,0,14000,Chiba
+ORD0561,C0118,2026/4/21,Bluetooth Speaker,Electronics,Returning,Mobile App,3,6200,0.1,16740,Tsukuba
+ORD0562,C0011,2026/8/11,Wireless Headphones,Electronics,Returning,Online,3,8500,0.15,21675,Kawasaki
+ORD0563,C0284,2026/6/20,Jeans,Clothing,New,Online,3,7600,0.05,21660,Mito
+ORD0564,C0074,2026/5/6,Sneakers,Clothing,Returning,Mobile App,1,8900,0.15,7565,Funabashi
+ORD0565,C0455,2026/3/6,Table Lamp,Home & Kitchen,New,Mobile App,1,5400,0.05,5130,Kawasaki
+ORD0566,C0378,2026/3/7,Jeans,Clothing,New,Mobile App,4,7600,0,30400,Tsukuba
+ORD0567,C0035,2026/1/18,Skincare Set,Beauty,Returning,Mobile App,1,7200,0.05,6840,Kawasaki
+ORD0568,C0424,2026/7/3,Body Lotion,Beauty,New,Online,1,2400,0.1,2160,Saitama
+ORD0569,C0394,2026/7/31,Hair Dryer,Beauty,New,Marketplace,3,6800,0,20400,Kawagoe
+ORD0570,C0438,2026/3/20,Running Shoes,Sports,New,Mobile App,2,9200,0.2,14720,Utsunomiya
+ORD0571,C0239,2026/2/11,Running Shoes,Sports,New,Marketplace,1,9200,0,9200,Funabashi
+ORD0572,C0134,2026/3/24,Bluetooth Speaker,Electronics,Returning,Online,2,6200,0.2,9920,Maebashi
+ORD0573,C0477,2026/9/17,Table Lamp,Home & Kitchen,New,Marketplace,1,5400,0,5400,Takasaki
+ORD0574,C0092,2026/5/10,Air Fryer,Home & Kitchen,Returning,Mobile App,1,9800,0.05,9310,Funabashi
+ORD0575,C0289,2026/2/3,Beauty Mirror,Beauty,New,Online,3,4500,0.15,11475,Kawagoe
+ORD0576,C0249,2026/9/15,Storage Box Set,Home & Kitchen,New,Marketplace,1,3200,0.2,2560,Kamakura
+ORD0577,C0049,2026/8/30,Body Lotion,Beauty,Returning,Online,1,2400,0.1,2160,Kawagoe
+ORD0578,C0092,2026/3/10,Sports Bag,Sports,Returning,Marketplace,2,5600,0.2,8960,Yokohama
+ORD0579,C0431,2026/9/26,Smart Watch,Electronics,New,Marketplace,1,12800,0,12800,Saitama
+ORD0580,C0379,2026/3/25,USB-C Hub,Electronics,New,Online,2,4200,0,8400,Chiba
+ORD0581,C0235,2026/8/21,Air Fryer,Home & Kitchen,New,Mobile App,1,9800,0,9800,Takasaki
+ORD0582,C0281,2026/9/23,Sneakers,Clothing,New,Mobile App,1,8900,0.15,7565,Kamakura
+ORD0583,C0109,2026/8/20,Beauty Mirror,Beauty,Returning,Marketplace,1,4500,0.05,4275,Utsunomiya
+ORD0584,C0486,2026/3/12,Wireless Mouse,Electronics,New,Marketplace,2,3500,0.15,5950,Hachioji
+ORD0585,C0439,2026/7/5,Yoga Mat,Sports,New,Online,2,3800,0.15,6460,Chiba
+ORD0586,C0420,2026/7/6,Sneakers,Clothing,New,Online,3,8900,0.1,24030,Kawasaki
+ORD0587,C0359,2026/3/18,Body Lotion,Beauty,New,Online,1,2400,0.05,2280,Hachioji
+ORD0588,C0366,2026/4/13,Wireless Headphones,Electronics,New,Mobile App,3,8500,0.05,24225,Kashiwa
+ORD0589,C0337,2026/8/31,Facial Cleanser,Beauty,New,Mobile App,2,2800,0.1,5040,Kashiwa
+ORD0590,C0008,2026/1/24,Jacket,Clothing,Returning,Mobile App,1,11500,0.1,10350,Kashiwa
+ORD0591,C0021,2026/1/23,Yoga Mat,Sports,Returning,Mobile App,4,3800,0.15,12920,Tsukuba
+ORD0592,C0464,2026/8/7,Body Lotion,Beauty,New,Online,1,2400,0.2,1920,Yokohama
+ORD0593,C0304,2026/3/22,USB-C Hub,Electronics,New,Online,1,4200,0.2,3360,Hachioji
+ORD0594,C0377,2026/2/17,Wireless Mouse,Electronics,New,Online,1,3500,0,3500,Saitama
+ORD0595,C0202,2026/6/28,Hoodie,Clothing,Returning,Mobile App,3,5900,0,17700,Hachioji
+ORD0596,C0394,2026/9/11,Beauty Mirror,Beauty,New,Online,2,4500,0.05,8550,Kamakura
+ORD0597,C0109,2026/5/14,Jeans,Clothing,Returning,Mobile App,1,7600,0.05,7220,Kawasaki
+ORD0598,C0341,2026/3/11,Facial Cleanser,Beauty,New,Online,1,2800,0.05,2660,Kawagoe
+ORD0599,C0499,2026/9/28,Jeans,Clothing,New,Online,1,7600,0.05,7220,Chiba
+ORD0600,C0261,2026/6/28,Bluetooth Speaker,Electronics,New,Mobile App,2,6200,0,12400,Kawasaki
+ORD0601,C0295,2026/3/6,Sneakers,Clothing,New,Online,2,8900,0,17800,Funabashi
+ORD0602,C0262,2026/3/21,Table Lamp,Home & Kitchen,New,Marketplace,1,5400,0,5400,Mito
+ORD0603,C0137,2026/2/15,Beauty Mirror,Beauty,Returning,Online,1,4500,0.1,4050,Utsunomiya
+ORD0604,C0415,2026/9/11,Wireless Headphones,Electronics,New,Mobile App,1,8500,0.1,7650,Mito
+ORD0605,C0105,2026/6/4,Table Lamp,Home & Kitchen,Returning,Mobile App,2,5400,0.1,9720,Hachioji
+ORD0606,C0430,2026/6/21,USB-C Hub,Electronics,New,Online,2,4200,0.1,7560,Kamakura
+ORD0607,C0413,2026/1/14,Running Shoes,Sports,New,Online,1,9200,0.2,7360,Kawasaki
+ORD0608,C0498,2026/8/19,Storage Box Set,Home & Kitchen,New,Mobile App,2,3200,0.1,5760,Kashiwa
+ORD0609,C0225,2026/7/10,Wireless Mouse,Electronics,New,Online,2,3500,0,7000,Hachioji
+ORD0610,C0391,2026/1/3,Sports Bag,Sports,New,Mobile App,3,5600,0.15,14280,Tsukuba
+ORD0611,C0344,2026/2/17,Wireless Headphones,Electronics,New,Marketplace,1,8500,0.05,8075,Maebashi
+ORD0612,C0335,2026/3/20,Storage Box Set,Home & Kitchen,New,Online,1,3200,0,3200,Saitama
+ORD0613,C0299,2026/5/5,Hoodie,Clothing,New,Online,2,5900,0.1,10620,Tokyo
+ORD0614,C0354,2026/5/31,Body Lotion,Beauty,New,Mobile App,3,2400,0.1,6480,Takasaki
+ORD0615,C0060,2026/5/30,Storage Box Set,Home & Kitchen,Returning,Mobile App,2,3200,0.05,6080,Yokohama
+ORD0616,C0062,2026/9/16,Bluetooth Speaker,Electronics,Returning,Mobile App,1,6200,0,6200,Kawagoe
+ORD0617,C0435,2026/6/17,Table Lamp,Home & Kitchen,New,Mobile App,2,5400,0.05,10260,Tsukuba
+ORD0618,C0174,2026/6/5,Table Lamp,Home & Kitchen,Returning,Online,2,5400,0.2,8640,Kashiwa
+ORD0619,C0325,2026/8/1,Air Fryer,Home & Kitchen,New,Marketplace,2,9800,0.05,18620,Yokohama
+ORD0620,C0464,2026/9/1,Jeans,Clothing,New,Mobile App,1,7600,0.1,6840,Maebashi
+ORD0621,C0033,2026/3/13,Beauty Mirror,Beauty,Returning,Online,4,4500,0,18000,Kawagoe
+ORD0622,C0455,2026/1/24,Facial Cleanser,Beauty,New,Online,1,2800,0.1,2520,Tsukuba
+ORD0623,C0365,2026/4/5,Hoodie,Clothing,New,Online,2,5900,0,11800,Takasaki
+ORD0624,C0146,2026/3/8,Sneakers,Clothing,Returning,Online,3,8900,0,26700,Tokyo
+ORD0625,C0083,2026/2/1,Fitness Band,Sports,Returning,Online,1,4100,0.1,3690,Saitama
+ORD0626,C0462,2026/4/19,Table Lamp,Home & Kitchen,New,Online,3,5400,0.15,13770,Hachioji
+ORD0627,C0038,2026/9/8,Electric Kettle,Home & Kitchen,Returning,Online,2,4800,0.2,7680,Tsukuba
+ORD0628,C0426,2026/6/17,Running Shoes,Sports,New,Online,1,9200,0.1,8280,Tokyo
+ORD0629,C0494,2026/5/12,Jacket,Clothing,New,Marketplace,1,11500,0,11500,Utsunomiya
+ORD0630,C0170,2026/3/21,T-Shirt,Clothing,Returning,Marketplace,1,3200,0,3200,Maebashi
+ORD0631,C0418,2026/2/20,Beauty Mirror,Beauty,New,Marketplace,1,4500,0.05,4275,Tsukuba
+ORD0632,C0377,2026/6/11,T-Shirt,Clothing,New,Mobile App,2,3200,0.15,5440,Tsukuba
+ORD0633,C0196,2026/8/2,Yoga Mat,Sports,Returning,Mobile App,1,3800,0,3800,Tokyo
+ORD0634,C0098,2026/1/4,Jacket,Clothing,Returning,Online,3,11500,0,34500,Kamakura
+ORD0635,C0307,2026/6/29,Facial Cleanser,Beauty,New,Online,2,2800,0.15,4760,Funabashi
+ORD0636,C0101,2026/2/12,Smart Watch,Electronics,Returning,Mobile App,1,12800,0,12800,Tsukuba
+ORD0637,C0166,2026/2/15,Running Shoes,Sports,Returning,Marketplace,2,9200,0.05,17480,Mito
+ORD0638,C0192,2026/7/28,Smart Watch,Electronics,Returning,Mobile App,2,12800,0.1,23040,Kawasaki
+ORD0639,C0185,2026/2/5,Hair Dryer,Beauty,Returning,Mobile App,1,6800,0.05,6460,Funabashi
+ORD0640,C0374,2026/1/10,Bluetooth Speaker,Electronics,New,Online,3,6200,0.05,17670,Kamakura
+ORD0641,C0403,2026/7/30,Dumbbell Set,Sports,New,Online,2,7400,0.05,14060,Kamakura
+ORD0642,C0499,2026/5/12,Bluetooth Speaker,Electronics,New,Mobile App,2,6200,0.1,11160,Kamakura
+ORD0643,C0181,2026/7/4,Bluetooth Speaker,Electronics,Returning,Mobile App,2,6200,0.1,11160,Tokyo
+ORD0644,C0382,2026/3/26,Smart Watch,Electronics,New,Online,2,12800,0.05,24320,Takasaki
+ORD0645,C0090,2026/6/11,Dumbbell Set,Sports,Returning,Online,2,7400,0,14800,Kawasaki
+ORD0646,C0128,2026/4/15,Sneakers,Clothing,Returning,Online,1,8900,0.05,8455,Kawasaki
+ORD0647,C0132,2026/8/15,Hair Dryer,Beauty,Returning,Marketplace,1,6800,0.1,6120,Yokohama
+ORD0648,C0281,2026/3/2,USB-C Hub,Electronics,New,Mobile App,1,4200,0.15,3570,Kamakura
+ORD0649,C0459,2026/1/19,Skincare Set,Beauty,New,Marketplace,3,7200,0,21600,Hachioji
+ORD0650,C0017,2026/5/11,Dumbbell Set,Sports,Returning,Marketplace,1,7400,0.1,6660,Hachioji
+ORD0651,C0121,2026/4/14,Coffee Maker,Home & Kitchen,Returning,Marketplace,1,7600,0.05,7220,Kawasaki
+ORD0652,C0145,2026/4/2,Bluetooth Speaker,Electronics,Returning,Online,1,6200,0,6200,Tsukuba
+ORD0653,C0423,2026/2/8,Sports Bag,Sports,New,Mobile App,2,5600,0.1,10080,Kawasaki
+ORD0654,C0094,2026/7/2,Beauty Mirror,Beauty,Returning,Online,1,4500,0.05,4275,Utsunomiya
+ORD0655,C0127,2026/7/27,Facial Cleanser,Beauty,Returning,Marketplace,1,2800,0,2800,Funabashi
+ORD0656,C0119,2026/3/26,Wireless Mouse,Electronics,Returning,Marketplace,4,3500,0,14000,Kawasaki
+ORD0657,C0062,2026/3/26,Storage Box Set,Home & Kitchen,Returning,Online,3,3200,0,9600,Tokyo
+ORD0658,C0195,2026/9/21,Wireless Headphones,Electronics,Returning,Mobile App,1,8500,0.1,7650,Saitama
+ORD0659,C0240,2026/9/22,Wireless Mouse,Electronics,New,Online,1,3500,0.1,3150,Kashiwa
+ORD0660,C0036,2026/1/18,Smart Watch,Electronics,Returning,Online,3,12800,0,38400,Hachioji
+ORD0661,C0069,2026/9/29,Yoga Mat,Sports,Returning,Online,1,3800,0.15,3230,Saitama
+ORD0662,C0183,2026/1/26,Beauty Mirror,Beauty,Returning,Mobile App,1,4500,0,4500,Maebashi
+ORD0663,C0429,2026/4/7,Electric Kettle,Home & Kitchen,New,Online,1,4800,0.1,4320,Kawasaki
+ORD0664,C0176,2026/8/18,Skincare Set,Beauty,Returning,Online,1,7200,0.1,6480,Kashiwa
+ORD0665,C0089,2026/2/26,T-Shirt,Clothing,Returning,Mobile App,3,3200,0,9600,Tsukuba
+ORD0666,C0019,2026/7/5,Coffee Maker,Home & Kitchen,Returning,Online,2,7600,0,15200,Utsunomiya
+ORD0667,C0007,2026/4/17,Smart Watch,Electronics,Returning,Online,1,12800,0.1,11520,Tsukuba
+ORD0668,C0051,2026/1/11,Fitness Band,Sports,Returning,Mobile App,1,4100,0.1,3690,Kashiwa
+ORD0669,C0187,2026/3/30,Table Lamp,Home & Kitchen,Returning,Online,1,5400,0.05,5130,Takasaki
+ORD0670,C0126,2026/5/15,Storage Box Set,Home & Kitchen,Returning,Mobile App,1,3200,0.15,2720,Utsunomiya
+ORD0671,C0205,2026/5/31,Coffee Maker,Home & Kitchen,Returning,Marketplace,1,7600,0,7600,Chiba
+ORD0672,C0339,2026/5/26,Storage Box Set,Home & Kitchen,New,Online,1,3200,0.05,3040,Funabashi
+ORD0673,C0009,2026/7/3,Facial Cleanser,Beauty,Returning,Online,2,2800,0.1,5040,Hachioji
+ORD0674,C0496,2026/1/9,Skincare Set,Beauty,New,Mobile App,1,7200,0,7200,Kawagoe
+ORD0675,C0238,2026/8/28,Jacket,Clothing,New,Online,1,11500,0.1,10350,Maebashi
+ORD0676,C0199,2026/9/5,Wireless Headphones,Electronics,Returning,Marketplace,2,8500,0.05,16150,Hachioji
+ORD0677,C0132,2026/6/6,Jacket,Clothing,Returning,Online,2,11500,0.15,19550,Tokyo
+ORD0678,C0280,2026/8/16,Beauty Mirror,Beauty,New,Mobile App,1,4500,0.05,4275,Maebashi
+ORD0679,C0410,2026/3/17,Coffee Maker,Home & Kitchen,New,Mobile App,2,7600,0.05,14440,Chiba
+ORD0680,C0058,2026/9/17,Yoga Mat,Sports,Returning,Online,1,3800,0.1,3420,Tokyo
+ORD0681,C0150,2026/9/17,Table Lamp,Home & Kitchen,Returning,Marketplace,1,5400,0.05,5130,Kashiwa
+ORD0682,C0024,2026/2/26,Coffee Maker,Home & Kitchen,Returning,Mobile App,1,7600,0,7600,Chiba
+ORD0683,C0320,2026/1/15,Beauty Mirror,Beauty,New,Online,1,4500,0.15,3825,Kashiwa
+ORD0684,C0449,2026/5/6,Table Lamp,Home & Kitchen,New,Marketplace,1,5400,0,5400,Hachioji
+ORD0685,C0100,2026/7/12,Sneakers,Clothing,Returning,Online,1,8900,0,8900,Kawagoe
+ORD0686,C0446,2026/7/12,Running Shoes,Sports,New,Online,3,9200,0.1,24840,Kamakura
+ORD0687,C0404,2026/8/7,Smart Watch,Electronics,New,Online,1,12800,0.05,12160,Hachioji
+ORD0688,C0339,2026/1/30,Wireless Headphones,Electronics,New,Mobile App,1,8500,0.1,7650,Saitama
+ORD0689,C0318,2026/3/22,Beauty Mirror,Beauty,New,Online,1,4500,0.15,3825,Maebashi
+ORD0690,C0452,2026/5/25,Coffee Maker,Home & Kitchen,New,Marketplace,2,7600,0,15200,Funabashi
+ORD0691,C0171,2026/9/4,Bluetooth Speaker,Electronics,Returning,Marketplace,1,6200,0,6200,Saitama
+ORD0692,C0379,2026/3/15,Jacket,Clothing,New,Marketplace,2,11500,0,23000,Chiba
+ORD0693,C0023,2026/2/5,Facial Cleanser,Beauty,Returning,Mobile App,2,2800,0.15,4760,Tsukuba
+ORD0694,C0095,2026/6/16,Dumbbell Set,Sports,Returning,Online,2,7400,0,14800,Mito
+ORD0695,C0198,2026/5/1,Jeans,Clothing,Returning,Mobile App,2,7600,0.1,13680,Chiba
+ORD0696,C0179,2026/8/2,Air Fryer,Home & Kitchen,Returning,Online,2,9800,0.05,18620,Tsukuba
+ORD0697,C0429,2026/5/17,Wireless Mouse,Electronics,New,Online,2,3500,0.05,6650,Maebashi
+ORD0698,C0457,2026/7/2,Coffee Maker,Home & Kitchen,New,Marketplace,1,7600,0.1,6840,Tokyo
+ORD0699,C0256,2026/3/9,Wireless Headphones,Electronics,New,Online,2,8500,0.1,15300,Saitama
+ORD0700,C0330,2026/1/21,Beauty Mirror,Beauty,New,Online,1,4500,0,4500,Kamakura
+ORD0701,C0367,2026/2/12,T-Shirt,Clothing,New,Online,4,3200,0.1,11520,Utsunomiya
+ORD0702,C0418,2026/8/3,USB-C Hub,Electronics,New,Online,1,4200,0.05,3990,Kamakura
+ORD0703,C0355,2026/3/7,Hair Dryer,Beauty,New,Online,1,6800,0.1,6120,Takasaki
+ORD0704,C0090,2026/9/21,Running Shoes,Sports,Returning,Online,3,9200,0.1,24840,Hachioji
+ORD0705,C0435,2026/1/13,Smart Watch,Electronics,New,Online,1,12800,0,12800,Takasaki
+ORD0706,C0009,2026/9/22,Skincare Set,Beauty,Returning,Mobile App,1,7200,0,7200,Kawagoe
+ORD0707,C0247,2026/7/7,Coffee Maker,Home & Kitchen,New,Online,1,7600,0.05,7220,Saitama
+ORD0708,C0091,2026/7/25,Skincare Set,Beauty,Returning,Online,2,7200,0.1,12960,Tsukuba
+ORD0709,C0089,2026/2/25,Wireless Mouse,Electronics,Returning,Mobile App,1,3500,0,3500,Takasaki
+ORD0710,C0383,2026/1/1,Jeans,Clothing,New,Marketplace,1,7600,0.2,6080,Kawagoe
+ORD0711,C0407,2026/6/9,USB-C Hub,Electronics,New,Marketplace,1,4200,0.15,3570,Tokyo
+ORD0712,C0445,2026/7/11,T-Shirt,Clothing,New,Marketplace,3,3200,0.05,9120,Kamakura
+ORD0713,C0389,2026/2/28,Facial Cleanser,Beauty,New,Online,2,2800,0.05,5320,Kamakura
+ORD0714,C0276,2026/3/17,Hoodie,Clothing,New,Online,1,5900,0.05,5605,Kamakura
+ORD0715,C0463,2026/4/27,Coffee Maker,Home & Kitchen,New,Online,3,7600,0.15,19380,Tsukuba
+ORD0716,C0106,2026/9/17,Facial Cleanser,Beauty,Returning,Marketplace,2,2800,0.05,5320,Hachioji
+ORD0717,C0096,2026/8/19,Sneakers,Clothing,Returning,Online,1,8900,0.15,7565,Tokyo
+ORD0718,C0480,2026/6/5,T-Shirt,Clothing,New,Online,1,3200,0.1,2880,Takasaki
+ORD0719,C0146,2026/9/22,Bluetooth Speaker,Electronics,Returning,Online,2,6200,0,12400,Kashiwa
+ORD0720,C0220,2026/1/14,Smart Watch,Electronics,New,Online,1,12800,0.05,12160,Tokyo
+ORD0721,C0371,2026/7/2,Smart Watch,Electronics,New,Mobile App,3,12800,0,38400,Kawagoe
+ORD0722,C0214,2026/9/19,Hair Dryer,Beauty,New,Online,1,6800,0,6800,Takasaki
+ORD0723,C0070,2026/5/23,Running Shoes,Sports,Returning,Marketplace,2,9200,0.05,17480,Takasaki
+ORD0724,C0402,2026/9/6,T-Shirt,Clothing,New,Marketplace,1,3200,0.2,2560,Tokyo
+ORD0725,C0307,2026/6/13,T-Shirt,Clothing,New,Mobile App,1,3200,0.1,2880,Maebashi
+ORD0726,C0192,2026/5/30,Table Lamp,Home & Kitchen,Returning,Online,1,5400,0,5400,Funabashi
+ORD0727,C0268,2026/1/8,Beauty Mirror,Beauty,New,Mobile App,1,4500,0.05,4275,Yokohama
+ORD0728,C0427,2026/7/7,Sports Bag,Sports,New,Marketplace,2,5600,0.05,10640,Hachioji
+ORD0729,C0454,2026/6/18,Jeans,Clothing,New,Mobile App,2,7600,0,15200,Mito
+ORD0730,C0074,2026/6/28,Facial Cleanser,Beauty,Returning,Online,1,2800,0.2,2240,Saitama
+ORD0731,C0309,2026/4/17,Skincare Set,Beauty,New,Mobile App,1,7200,0,7200,Maebashi
+ORD0732,C0270,2026/6/17,Air Fryer,Home & Kitchen,New,Online,2,9800,0.05,18620,Tsukuba
+ORD0733,C0077,2026/7/7,Jacket,Clothing,Returning,Marketplace,3,11500,0.15,29325,Tokyo
+ORD0734,C0105,2026/8/17,Smart Watch,Electronics,Returning,Online,2,12800,0.2,20480,Chiba
+ORD0735,C0431,2026/8/9,Beauty Mirror,Beauty,New,Online,1,4500,0,4500,Tokyo
+ORD0736,C0269,2026/8/4,USB-C Hub,Electronics,New,Mobile App,3,4200,0.1,11340,Kawagoe
+ORD0737,C0326,2026/3/12,Coffee Maker,Home & Kitchen,New,Marketplace,2,7600,0.1,13680,Utsunomiya
+ORD0738,C0473,2026/3/30,Bluetooth Speaker,Electronics,New,Online,1,6200,0.05,5890,Tsukuba
+ORD0739,C0055,2026/8/22,Beauty Mirror,Beauty,Returning,Mobile App,4,4500,0.1,16200,Takasaki
+ORD0740,C0429,2026/6/1,Smart Watch,Electronics,New,Online,1,12800,0.1,11520,Kawasaki
+ORD0741,C0014,2026/4/9,Hoodie,Clothing,Returning,Online,1,5900,0.05,5605,Kawasaki
+ORD0742,C0357,2026/6/26,Skincare Set,Beauty,New,Online,1,7200,0.05,6840,Chiba
+ORD0743,C0209,2026/9/22,Smart Watch,Electronics,Returning,Online,2,12800,0.05,24320,Takasaki
+ORD0744,C0410,2026/7/31,Smart Watch,Electronics,New,Online,3,12800,0,38400,Kawasaki
+ORD0745,C0069,2026/1/19,Electric Kettle,Home & Kitchen,Returning,Online,1,4800,0.15,4080,Funabashi
+ORD0746,C0132,2026/1/2,Yoga Mat,Sports,Returning,Marketplace,1,3800,0.15,3230,Tokyo
+ORD0747,C0001,2026/7/8,Running Shoes,Sports,Returning,Online,1,9200,0.1,8280,Yokohama
+ORD0748,C0491,2026/1/19,Hoodie,Clothing,New,Online,2,5900,0.05,11210,Maebashi
+ORD0749,C0147,2026/4/28,T-Shirt,Clothing,Returning,Online,2,3200,0,6400,Maebashi
+ORD0750,C0127,2026/3/31,Wireless Mouse,Electronics,Returning,Online,1,3500,0.05,3325,Chiba
+ORD0751,C0070,2026/9/14,Electric Kettle,Home & Kitchen,Returning,Marketplace,1,4800,0,4800,Kamakura
+ORD0752,C0001,2026/6/24,USB-C Hub,Electronics,Returning,Online,2,4200,0.15,7140,Tokyo
+ORD0753,C0430,2026/5/12,Table Lamp,Home & Kitchen,New,Mobile App,2,5400,0.15,9180,Saitama
+ORD0754,C0246,2026/7/18,Body Lotion,Beauty,New,Marketplace,1,2400,0,2400,Hachioji
+ORD0755,C0204,2026/9/15,Hair Dryer,Beauty,Returning,Mobile App,1,6800,0.2,5440,Chiba
+ORD0756,C0140,2026/6/5,T-Shirt,Clothing,Returning,Online,1,3200,0.05,3040,Maebashi
+ORD0757,C0026,2026/1/2,Hoodie,Clothing,Returning,Mobile App,2,5900,0,11800,Maebashi
+ORD0758,C0168,2026/7/25,Wireless Mouse,Electronics,Returning,Mobile App,2,3500,0.1,6300,Utsunomiya
+ORD0759,C0269,2026/7/14,Wireless Mouse,Electronics,New,Online,1,3500,0,3500,Kashiwa
+ORD0760,C0368,2026/2/4,Facial Cleanser,Beauty,New,Online,2,2800,0,5600,Maebashi
+ORD0761,C0451,2026/5/30,Running Shoes,Sports,New,Marketplace,4,9200,0,36800,Hachioji
+ORD0762,C0229,2026/8/10,Table Lamp,Home & Kitchen,New,Online,1,5400,0.1,4860,Tokyo
+ORD0763,C0465,2026/6/30,Facial Cleanser,Beauty,New,Mobile App,1,2800,0.1,2520,Yokohama
+ORD0764,C0244,2026/1/12,Hoodie,Clothing,New,Online,1,5900,0.1,5310,Chiba
+ORD0765,C0145,2026/7/16,Skincare Set,Beauty,Returning,Mobile App,1,7200,0.05,6840,Tsukuba
+ORD0766,C0046,2026/8/16,Table Lamp,Home & Kitchen,Returning,Marketplace,1,5400,0.1,4860,Saitama
+ORD0767,C0039,2026/4/26,Wireless Mouse,Electronics,Returning,Marketplace,1,3500,0.1,3150,Takasaki
+ORD0768,C0190,2026/5/14,Wireless Headphones,Electronics,Returning,Online,4,8500,0.1,30600,Funabashi
+ORD0769,C0324,2026/2/9,Sneakers,Clothing,New,Online,1,8900,0.1,8010,Kamakura
+ORD0770,C0116,2026/3/5,Air Fryer,Home & Kitchen,Returning,Mobile App,1,9800,0.05,9310,Hachioji
+ORD0771,C0076,2026/6/27,Fitness Band,Sports,Returning,Mobile App,1,4100,0,4100,Kawagoe
+ORD0772,C0304,2026/9/15,Table Lamp,Home & Kitchen,New,Online,1,5400,0,5400,Kamakura
+ORD0773,C0285,2026/3/11,Wireless Mouse,Electronics,New,Online,1,3500,0,3500,Tokyo
+ORD0774,C0006,2026/3/31,Jacket,Clothing,Returning,Online,2,11500,0.1,20700,Maebashi
+ORD0775,C0138,2026/3/14,Sneakers,Clothing,Returning,Marketplace,1,8900,0,8900,Tokyo
+ORD0776,C0022,2026/6/10,Jacket,Clothing,Returning,Online,1,11500,0.05,10925,Kamakura
+ORD0777,C0274,2026/1/10,Table Lamp,Home & Kitchen,New,Mobile App,1,5400,0.05,5130,Tsukuba
+ORD0778,C0045,2026/5/18,Sneakers,Clothing,Returning,Online,2,8900,0.1,16020,Takasaki
+ORD0779,C0441,2026/8/5,Hair Dryer,Beauty,New,Online,1,6800,0.1,6120,Maebashi
+ORD0780,C0323,2026/9/23,Sneakers,Clothing,New,Mobile App,2,8900,0,17800,Takasaki
+ORD0781,C0191,2026/1/4,USB-C Hub,Electronics,Returning,Mobile App,1,4200,0,4200,Kawagoe
+ORD0782,C0119,2026/5/30,Facial Cleanser,Beauty,Returning,Marketplace,1,2800,0.1,2520,Yokohama
+ORD0783,C0461,2026/5/9,Sports Bag,Sports,New,Online,1,5600,0.15,4760,Funabashi
+ORD0784,C0398,2026/3/8,T-Shirt,Clothing,New,Online,4,3200,0.05,12160,Takasaki
+ORD0785,C0239,2026/1/13,Air Fryer,Home & Kitchen,New,Marketplace,2,9800,0.1,17640,Mito
+ORD0786,C0264,2026/4/18,Hoodie,Clothing,New,Online,2,5900,0.05,11210,Kawasaki
+ORD0787,C0289,2026/4/21,Sneakers,Clothing,New,Marketplace,2,8900,0.05,16910,Utsunomiya
+ORD0788,C0096,2026/5/24,Hoodie,Clothing,Returning,Marketplace,2,5900,0.15,10030,Tokyo
+ORD0789,C0236,2026/3/17,Jacket,Clothing,New,Online,1,11500,0.1,10350,Tsukuba
+ORD0790,C0341,2026/8/19,Bluetooth Speaker,Electronics,New,Online,1,6200,0,6200,Kamakura
+ORD0791,C0145,2026/9/10,USB-C Hub,Electronics,Returning,Online,1,4200,0.05,3990,Kamakura
+ORD0792,C0067,2026/6/24,Wireless Mouse,Electronics,Returning,Online,1,3500,0.05,3325,Funabashi
+ORD0793,C0211,2026/3/13,Skincare Set,Beauty,New,Online,1,7200,0.15,6120,Utsunomiya
+ORD0794,C0080,2026/2/24,Body Lotion,Beauty,Returning,Mobile App,1,2400,0,2400,Kawagoe
+ORD0795,C0081,2026/5/9,Air Fryer,Home & Kitchen,Returning,Mobile App,2,9800,0.05,18620,Mito
+ORD0796,C0019,2026/7/25,Wireless Mouse,Electronics,Returning,Online,1,3500,0.05,3325,Hachioji
+ORD0797,C0394,2026/3/15,Body Lotion,Beauty,New,Online,1,2400,0,2400,Kashiwa
+ORD0798,C0299,2026/7/16,Table Lamp,Home & Kitchen,New,Online,1,5400,0,5400,Kamakura
+ORD0799,C0486,2026/8/11,Bluetooth Speaker,Electronics,New,Online,1,6200,0.05,5890,Kashiwa
+ORD0800,C0343,2026/7/10,Beauty Mirror,Beauty,New,Mobile App,1,4500,0.05,4275,Kashiwa
